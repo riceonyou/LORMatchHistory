@@ -174,7 +174,7 @@ async def on_command_error(ctx, error):
 	
 
 @bot.command(name = 'history')
-@commands.cooldown(20, 60, commands.BucketType.default)
+@commands.cooldown(20, 60, commands.BucketType.default)#Limiting to 20 requests each 60 seconds
 async def MatchHistory(ctx, name, tag, region):
 	#Send loading message
 	embed=discord.Embed(title="Retreiving your match history. Please wait...", description="")
@@ -255,7 +255,7 @@ async def MatchHistory(ctx, name, tag, region):
 						
 		if ratelimiterror == False:
 			print('yahhoo done')
-			embed.set_footer(text='LORMatchHistory only shows constructed ranked, normal and gauntlet games. It only shows a maximum of 10 games.\nIf your name has spaces, please enclose your name with double quotation marks Eg. "Cool Person".')
+			embed.set_footer(text='LORMatchHistory only shows constructed ranked, normal and gauntlet games.\nIf your name has spaces, please use double quotation marks Eg. "Cool Person".')
 			await ldngmsg.delete()
 			await ctx.send(embed=embed)
 	
