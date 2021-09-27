@@ -3,6 +3,10 @@ A discord bot that gives Legends of Runeterra match history (And possibly other 
 
 Use this link to invite it into your discord server: https://discord.com/api/oauth2/authorize?client_id=890433697466175508&permissions=280640&scope=bot
 
+List of commands:
+!!history name tag region
+gives the match history for the given name/tag/region
+
 This bot uses the python package that reads LOR deck codes https://github.com/Rafalonso/LoRDeckCodesPython
 Other packages used: dotenv, discord, discord.ext, requests, json, csv, os
 
