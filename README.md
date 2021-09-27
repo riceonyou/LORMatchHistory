@@ -7,6 +7,8 @@ Use this link to invite it into your discord server: https://discord.com/api/oau
 **!!history name tag region**
 
 gives the match history for the given name/tag/region
+![Untitled](https://user-images.githubusercontent.com/38494422/134842872-2ce7304d-98c6-47d4-811e-0eea08f34b04.png)
+
 
 
 ## Other stuff
