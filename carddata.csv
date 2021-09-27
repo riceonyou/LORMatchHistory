@@ -1,0 +1,1395 @@
+01IO012,Twin Disciplines,Spell,Ionia,2,Common
+01IO012T2,Discipline of Fortitude,Spell,Ionia,2,None
+01IO012T1,Discipline of Force,Spell,Ionia,2,None
+01IO015,Yasuo,Unit,Ionia,4,Champion
+01IO015T1,Yasuo,Unit,Ionia,4,None
+01IO015T2,Yasuo's Steel Tempest,Spell,Ionia,2,None
+01IO020,Keeper of Masks,Unit,Ionia,2,Common
+01IO045,Herald of Spring,Unit,Ionia,2,Common
+01IO008,Fae Bladetwirler,Unit,Ionia,2,Rare
+01IO040,Kinkou Lifeblade,Unit,Ionia,4,Common
+01IO041,Karma,Unit,Ionia,5,Champion
+01IO041T1,Karma,Unit,Ionia,5,None
+01IO041T2,Karma's Insight of Ages,Spell,Ionia,2,None
+01IO011,Recall,Spell,Ionia,1,Common
+01IO009,Zed,Unit,Ionia,3,Champion
+01IO009T2,Zed,Unit,Ionia,3,None
+01IO009T3,Zed's Shadowshift,Spell,Ionia,3,None
+01IO009T1,Living Shadow,Unit,Ionia,3,None
+01IO014,Greenglade Elder,Unit,Ionia,3,Common
+01IO005,Nimble Poro,Unit,Ionia,1,Common
+01IO044,Navori Conspirator,Unit,Ionia,2,Common
+01IO023,Jeweled Protector,Unit,Ionia,5,Rare
+01IO029,Sown Seeds,Spell,Ionia,2,Rare
+01IO003,Death Mark,Spell,Ionia,3,Rare
+01IO047,Shadow Flare,Spell,Ionia,6,Epic
+01IO026,Inspiring Mentor,Unit,Ionia,1,Common
+01IO024,Dawn and Dusk,Spell,Ionia,6,Rare
+01IO028,Scaled Snapper,Unit,Ionia,3,Common
+01IO057,Shadow Assassin,Unit,Ionia,3,Common
+01IO028T2,Scaled Snapper,Unit,Ionia,3,None
+01IO028T1,Scaled Snapper,Unit,Ionia,3,None
+01IO032,Shen,Unit,Ionia,4,Champion
+01IO032T1,Shen,Unit,Ionia,4,None
+01IO032T2,Shen's Stand United,Spell,Ionia,6,None
+01IO013,Shadow Fiend,Unit,Ionia,1,Common
+01IO018,Rush,Spell,Ionia,1,Common
+01IO056,"Yone, Windchaser",Unit,Ionia,7,Rare
+01IO056T1,Staggering Strikes,Ability,Ionia,0,None
+01IO016,Zephyr Sage,Unit,Ionia,6,Rare
+01IO036,Greenglade Lookout,Unit,Ionia,2,Common
+01IO033,Minah Swiftfoot,Unit,Ionia,9,Epic
+01IO001,Ritual of Renewal,Spell,Ionia,7,Rare
+01IO010,Stand United,Spell,Ionia,6,Rare
+01IO022,Ghost,Spell,Ionia,1,Common
+01IO021,Windfarer Hatchling,Unit,Ionia,7,Epic
+01IO054,Insight of Ages,Spell,Ionia,2,Rare
+01IO027,Silent Shadowseer,Unit,Ionia,2,Epic
+01IO031,Cloud Drinker,Unit,Ionia,6,Rare
+01IO002,Will of Ionia,Spell,Ionia,4,Common
+01IO033T1,Skyward Strikes,Ability,Ionia,0,None
+01IO017,Navori Bladescout,Unit,Ionia,1,Common
+01IO042,Sparring Student,Unit,Ionia,1,Common
+01IO006,Greenglade Duo,Unit,Ionia,2,Rare
+01IO050,Kinkou Wayfinder,Unit,Ionia,4,Rare
+01IO048,Yusari,Unit,Ionia,5,Rare
+01IO007,Ren Shadowblade,Unit,Ionia,4,Epic
+01IO053,Emerald Awakener,Unit,Ionia,3,Common
+01IO004,Health Potion,Spell,Ionia,1,Common
+01IO049,Deny,Spell,Ionia,4,Rare
+01IO052,Navori Highwayman,Unit,Ionia,2,Common
+01IO052T1,Navori Brigand,Unit,Ionia,2,None
+01IO030,The Empyrean,Unit,Ionia,7,Epic
+01IO019,Greenglade Caretaker,Unit,Ionia,1,Common
+01IO046,Steel Tempest,Spell,Ionia,2,Rare
+01IO037,Spirit's Refuge,Spell,Ionia,4,Common
+01IO043,Rivershaper,Unit,Ionia,3,Rare
+01IO038,Solitary Monk,Unit,Ionia,3,Rare
+01IO039,Shadowshift,Spell,Ionia,3,Common
+01IO055,Ki Guardian,Spell,Ionia,2,Common
+01NX020,Draven,Unit,Noxus,3,Champion
+01NX020T3,Draven,Unit,Noxus,3,None
+01NX020T2,Draven's Whirling Death,Spell,Noxus,3,None
+01NX020T1,Spinning Axe,Spell,Noxus,0,None
+01NX006,Vladimir,Unit,Noxus,5,Champion
+01NX006T4,Crimson Pact,Ability,Noxus,0,None
+01NX006T2,Crimson Pact,Ability,Noxus,0,None
+01NX006T1,Vladimir,Unit,Noxus,5,None
+01NX006T3,Vladimir's Transfusion,Spell,Noxus,2,None
+01NX004,Culling Strike,Spell,Noxus,3,Rare
+01NX048,Crimson Curator,Unit,Noxus,3,Common
+01NX038,Darius,Unit,Noxus,6,Champion
+01NX023,Arachnoid Host,Unit,Noxus,5,Rare
+01NX013,Decisive Maneuver,Spell,Noxus,5,Rare
+01NX046,Arachnoid Sentry,Unit,Noxus,3,Common
+01NX046T1,Paralyzing Bite,Ability,Noxus,0,None
+01NX047,Transfusion,Spell,Noxus,2,Common
+01NX040,Legion Saboteur,Unit,Noxus,1,Common
+01NX038T2,Darius,Unit,Noxus,6,None
+01NX038T1,Darius' Decimate,Spell,Noxus,5,None
+01NX025,Brothers' Bond,Spell,Noxus,2,Common
+01NX055,House Spider,Unit,Noxus,2,Common
+01NX030,Crimson Disciple,Unit,Noxus,2,Rare
+01NX007,Arena Battlecaster,Unit,Noxus,2,Rare
+01NX021,Legion Marauder,Unit,Noxus,3,Common
+01NX009,Crowd Favorite,Unit,Noxus,4,Rare
+01NX011,Whirling Death,Spell,Noxus,3,Common
+01NX053,Reckoning,Spell,Noxus,6,Epic
+01NX040T1,Sabotage,Ability,Noxus,0,None
+01NX054,Intimidating Roar,Spell,Noxus,5,Rare
+01NX029,Legion Veteran,Unit,Noxus,4,Epic
+01NX014,Shiraza the Blade,Unit,Noxus,4,Epic
+01NX042,Katarina,Unit,Noxus,3,Champion
+01NX042T2,Katarina,Unit,Noxus,4,None
+01NX042T1,Katarina's Death Lotus,Spell,Noxus,2,None
+01NX051,Captain Farron,Unit,Noxus,8,Epic
+01NX012,Legion Rearguard,Unit,Noxus,1,Common
+01NX043,Blade's Edge,Spell,Noxus,1,Common
+01NX037,Legion Grenadier,Unit,Noxus,2,Common
+01NX010,Legion General,Unit,Noxus,5,Common
+01NX017,Legion Drummer,Unit,Noxus,2,Common
+01NX003,Arena Bookie,Unit,Noxus,2,Rare
+01NX039,Vision,Spell,Noxus,3,Rare
+01NX041,Trifarian Shieldbreaker,Unit,Noxus,5,Common
+01NX036,Minotaur Reckoner,Unit,Noxus,6,Rare
+01NX044,Battering Ram,Unit,Noxus,6,Epic
+01NX005,Crimson Aristocrat,Unit,Noxus,2,Common
+01NX016,Trifarian Hopeful,Unit,Noxus,2,Common
+01NX019,Might,Spell,Noxus,3,Common
+01NX015,Precious Pet,Unit,Noxus,1,Common
+01NX050,Death Lotus,Spell,Noxus,2,Rare
+01NX056,Shunpo,Spell,Noxus,5,Common
+01NX033,Trifarian Assessor,Unit,Noxus,5,Rare
+01NX052,Blood for Blood,Spell,Noxus,2,Common
+01NX045,Savage Reckoner,Unit,Noxus,7,Rare
+01NX031,Trifarian Gloryseeker,Unit,Noxus,2,Rare
+01NX002,Decimate,Spell,Noxus,5,Rare
+01NX008,Basilisk Rider,Unit,Noxus,4,Rare
+01NX034,Affectionate Poro,Unit,Noxus,1,Common
+01NX035,Draven's Biggest Fan,Unit,Noxus,1,Common
+01NX026,Reckless Trifarian,Unit,Noxus,3,Common
+01NX027,Elixir of Wrath,Spell,Noxus,1,Common
+01NX022,Noxian Guillotine,Spell,Noxus,3,Rare
+01NX032,Crimson Awakener,Unit,Noxus,4,Rare
+01NX024,Kato The Arm,Unit,Noxus,5,Epic
+01NX049,Guile,Spell,Noxus,1,Common
+01DE031,Dawnspeakers,Unit,Demacia,3,Epic
+01DE022,Lucian,Unit,Demacia,2,Champion
+01DE019,Mobilize,Spell,Demacia,3,Rare
+01DE042,Lux,Unit,Demacia,6,Champion
+01DE042T1,Lux's Prismatic Barrier,Spell,Demacia,3,None
+01DE042T2,Lux,Unit,Demacia,6,None
+01DE042T3,Final Spark,Spell,Demacia,0,None
+01DE010,Swiftwing Lancer,Unit,Demacia,5,Rare
+01DE020,Vanguard Defender,Unit,Demacia,2,Common
+01DE034,Battlesmith,Unit,Demacia,2,Rare
+01DE002,Tianna Crownguard,Unit,Demacia,8,Epic
+01DE012,Garen,Unit,Demacia,5,Champion
+01DE012T1,Garen,Unit,Demacia,5,None
+01DE012T2,Garen's Judgment,Spell,Demacia,8,None
+01DE017,Stand Alone,Spell,Demacia,4,Rare
+01DE045,Fiora,Unit,Demacia,3,Champion
+01DE052,Brightsteel Formation,Unit,Demacia,9,Epic
+01DE021,Relentless Pursuit,Spell,Demacia,3,Common
+01DE022T2,Lucian's Relentless Pursuit,Spell,Demacia,3,None
+01DE022T1,Lucian,Unit,Demacia,2,None
+01DE025,Detain,Spell,Demacia,5,Common
+01DE007,Judgment,Spell,Demacia,8,Epic
+01DE055,Laurent Duelist,Unit,Demacia,3,Common
+01DE048,Mageseeker Inciter,Unit,Demacia,4,Rare
+01DE001,Vanguard Bannerman,Unit,Demacia,4,Rare
+01DE043,War Chefs,Unit,Demacia,2,Common
+01DE049,Plucky Poro,Unit,Demacia,1,Common
+01DE053,Laurent Chevalier,Unit,Demacia,4,Epic
+01DE033,Remembrance,Spell,Demacia,6,Rare
+01DE045T1,Fiora,Unit,Demacia,3,None
+01DE045T2,Fiora's Riposte,Spell,Demacia,4,None
+01DE044,Redoubled Valor,Spell,Demacia,6,Rare
+01DE024,Mageseeker Conservator,Unit,Demacia,1,Common
+01DE004,Silverwing Vanguard,Unit,Demacia,4,Common
+01DE011,Laurent Protege,Unit,Demacia,3,Common
+01DE047,Succession,Spell,Demacia,3,Common
+01DE046,Vanguard Lookout,Unit,Demacia,2,Common
+01DE050,Purify,Spell,Demacia,2,Common
+01DE016,Dauntless Vanguard,Unit,Demacia,3,None
+01DE040,Mageseeker Persuader,Unit,Demacia,2,Rare
+01DE036,Vanguard Squire,Unit,Demacia,4,Common
+01DE037,Riposte,Spell,Demacia,4,Rare
+01DE014,Reinforcements,Spell,Demacia,8,Rare
+01DE015,Radiant Guardian,Unit,Demacia,5,Rare
+01DE003,Laurent Bladekeeper,Unit,Demacia,4,Rare
+01DE026,Single Combat,Spell,Demacia,2,Common
+01DE032,Prismatic Barrier,Spell,Demacia,3,Common
+01DE027,En Garde,Spell,Demacia,3,Rare
+01DE006,Vanguard Sergeant,Unit,Demacia,3,Rare
+01DE038,"Senna, Sentinel of Light",Unit,Demacia,3,Rare
+01DE041,Back to Back,Spell,Demacia,6,Rare
+01DE035,For Demacia!,Spell,Demacia,6,Rare
+01DE018,Radiant Strike,Spell,Demacia,1,Common
+01DE009,Brightsteel Protector,Unit,Demacia,2,Common
+01DE039,Cithria of Cloudfield,Unit,Demacia,1,Common
+01DE056,Vanguard Firstblade,Unit,Demacia,4,Common
+01DE029,Fleetfeather Tracker,Unit,Demacia,1,Common
+01DE028,Vanguard Cavalry,Unit,Demacia,5,Common
+01DE013,Chain Vest,Spell,Demacia,1,Common
+01DE023,Mageseeker Investigator,Unit,Demacia,3,Common
+01DE051,Cithria the Bold,Unit,Demacia,6,Epic
+01DE054,Vanguard Redeemer,Unit,Demacia,3,Common
+01DE030,Silverwing Diver,Unit,Demacia,4,Common
+01PZ040,Jinx,Unit,Piltover & Zaun,4,Champion
+01PZ040T3,Jinx's Get Excited!,Spell,Piltover & Zaun,3,None
+01PZ040T2,Super Mega Death Rocket!,Spell,Piltover & Zaun,1,None
+01PZ040T1,Jinx,Unit,Piltover & Zaun,4,None
+01PZ008,Teemo,Unit,Piltover & Zaun + Bandle City,1,Champion
+01PZ008T2,Teemo,Unit,Piltover & Zaun + Bandle City,1,None
+01PZ008T1,Teemo's Mushroom Cloud,Spell,Piltover & Zaun,1,None
+01PZ056,Heimerdinger,Unit,Piltover & Zaun + Bandle City,5,Champion
+01PZ013,Augmented Experimenter,Unit,Piltover & Zaun,6,Epic
+01PZ007,Parade Electrorig,Unit,Piltover & Zaun,3,Common
+01PZ056T10,Heimerdinger,Unit,Piltover & Zaun + Bandle City,5,None
+01PZ056T7,Mk2: Evolution Turret,Unit,Piltover & Zaun,2,None
+01PZ056T9,Mk4: Stormlobber,Unit,Piltover & Zaun,4,None
+01PZ056T3,Heimerdinger's Progress Day!,Spell,Piltover & Zaun,8,None
+01PZ056T8,Mk3: Apex Turret,Unit,Piltover & Zaun,3,None
+01PZ056T2,Mk5: Rocket Blaster,Unit,Piltover & Zaun,5,None
+01PZ056T5,Mk7: Armored Stomper,Unit,Piltover & Zaun,7,None
+01PZ056T1,Mk0: Windup Shredder,Unit,Piltover & Zaun,0,None
+01PZ056T4,Mk1: Wrenchbot,Unit,Piltover & Zaun,1,None
+01PZ056T6,Mk6: Floor-B-Gone,Unit,Piltover & Zaun,6,None
+01PZ018,Academy Prodigy,Unit,Piltover & Zaun,2,Common
+01PZ019,Eager Apprentice,Unit,Piltover & Zaun,2,Common
+01PZ025,Puffcap Peddler,Unit,Piltover & Zaun,3,Common
+01PZ048,Corina Veraza,Unit,Piltover & Zaun,9,Epic
+01PZ048T1,Magnum Opus,Ability,Piltover & Zaun,0,None
+01PZ032,Scrap Scuttler,Unit,Piltover & Zaun,1,None
+01PZ015,T-Hex,Unit,Piltover & Zaun,8,None
+01PZ022,Poison Puffcap,Trap,Piltover & Zaun,0,None
+01PZ028,Jury-Rig,Spell,Piltover & Zaun,1,Common
+01PZ050,Rising Spell Force,Spell,Piltover & Zaun,3,Common
+01PZ054,Boomcrew Rookie,Unit,Piltover & Zaun,2,Common
+01PZ054T1,Undermine,Ability,Piltover & Zaun,0,None
+01PZ030,Shady Character,Unit,Piltover & Zaun,4,Rare
+01PZ030T1,Impersonate,Ability,Piltover & Zaun,0,None
+01PZ017,Used Cask Salesman,Unit,Piltover & Zaun,3,Common
+01PZ038,Sump Dredger,Unit,Piltover & Zaun,3,Common
+01PZ036,Ezreal,Unit,Piltover & Zaun,3,Champion
+01PZ036T1,Ezreal,Unit,Piltover & Zaun,3,None
+01PZ036T2,Ezreal's Mystic Shot,Spell,Piltover & Zaun,2,None
+01PZ035,Jae Medarda,Unit,Piltover & Zaun,6,Epic
+01PZ010,Mushroom Cloud,Spell,Piltover & Zaun,1,Common
+01PZ045,Zaunite Urchin,Unit,Piltover & Zaun,1,Common
+01PZ013T1,Reckless Research,Ability,Piltover & Zaun,0,None
+01PZ002,Back Alley Barkeep,Unit,Piltover & Zaun,4,Common
+01PZ004,Trueshot Barrage,Spell,Piltover & Zaun,7,Epic
+01PZ020,Daring Poro,Unit,Piltover & Zaun,1,Common
+01PZ046,Counterfeit Copies,Spell,Piltover & Zaun,1,Rare
+01PZ052,Mystic Shot,Spell,Piltover & Zaun,2,Common
+01PZ033,Purrsuit of Perfection,Spell,Piltover & Zaun,5,Epic
+01PZ033T1,Catastrophe,Unit,Piltover & Zaun,1,None
+01PZ005,Hextech Transmogulator,Spell,Piltover & Zaun,6,Rare
+01PZ021,Midenstokke Henchmen,Unit,Piltover & Zaun,5,Rare
+01PZ031,Statikk Shock,Spell,Piltover & Zaun,4,Rare
+01PZ059,Golden Crushbot,Unit,Piltover & Zaun,3,Common
+01PZ001,Rummage,Spell,Piltover & Zaun,2,Common
+01PZ057,Scrapdash Assembly,Spell,Piltover & Zaun,2,Common
+01PZ027,Thermogenic Beam,Spell,Piltover & Zaun,0,Rare
+01PZ055,Astute Academic,Unit,Piltover & Zaun,1,Common
+01PZ014,Unlicensed Innovation,Spell,Piltover & Zaun,6,Common
+01PZ034,Sumpsnipe Scavenger,Unit,Piltover & Zaun,4,Rare
+01PZ014T1,Illegal Contraption,Unit,Piltover & Zaun,6,None
+01PZ060,Accelerated Purrsuit,Spell,Piltover & Zaun,5,Epic
+01PZ003,Assembly Bot,Unit,Piltover & Zaun,3,Rare
+01PZ044,Chempunk Shredder,Unit,Piltover & Zaun,5,Rare
+01PZ029,Eminent Benefactor,Unit,Piltover & Zaun,4,Rare
+01PZ051,Funsmith,Unit,Piltover & Zaun,4,Rare
+01PZ044T2,Face-Melter,Ability,Piltover & Zaun,0,None
+01PZ023,Professor von Yipp,Unit,Piltover & Zaun,4,Rare
+01PZ024,Unstable Voltician,Unit,Piltover & Zaun,5,Rare
+01PZ049,Progress Day!,Spell,Piltover & Zaun,8,Epic
+01PZ006,Plaza Guardian,Unit,Piltover & Zaun,10,Rare
+01PZ053,Clump of Whumps,Unit,Piltover & Zaun,2,Common
+01PZ012,Flame Chompers!,Unit,Piltover & Zaun,2,Common
+01PZ039,Get Excited!,Spell,Piltover & Zaun,3,Rare
+01PZ016,Flash of Brilliance,Spell,Piltover & Zaun,3,Common
+01PZ058,Chump Whump,Unit,Piltover & Zaun,4,Rare
+01PZ009,Amateur Aeronaut,Unit,Piltover & Zaun,3,Common
+01PZ042,Intrepid Mariner,Unit,Piltover & Zaun,2,Rare
+01PZ026,Sumpworks Map,Spell,Piltover & Zaun,2,Common
+01PZ043,Chempunk Pickpocket,Unit,Piltover & Zaun,2,Rare
+01PZ047,Caustic Cask,Unit,Piltover & Zaun,0,Common
+01FR024,Anivia,Unit,Freljord,6,Champion
+01FR024T2,Glacial Storm,Ability,Freljord,0,None
+01FR024T1,Anivia's Harsh Winds,Spell,Freljord,6,None
+01FR024T3,Anivia,Unit,Freljord,6,None
+01FR024T5,Glacial Storm,Ability,Freljord,0,None
+01FR024T4,Eggnivia,Unit,Freljord,1,None
+01FR039,Tryndamere,Unit,Freljord,8,Champion
+01FR039T1,Tryndamere's Battle Fury,Spell,Freljord,8,None
+01FR039T2,Tryndamere,Unit,Freljord,8,None
+01FR006,Iceborn Legacy,Spell,Freljord,5,Common
+01FR022,Omen Hawk,Unit,Freljord,1,Common
+01FR042,Harsh Winds,Spell,Freljord,6,Rare
+01FR009,Braum,Unit,Freljord,4,Champion
+01FR018,Rimefang Wolf,Unit,Freljord,3,Rare
+01FR036,Avarosan Marksman,Unit,Freljord,3,Common
+01FR045,Scarthane Steffen,Unit,Freljord,3,Common
+01FR008,Lonely Poro,Unit,Freljord,1,Common
+01FR008T1,Jubilant Poro,Unit,Freljord,1,None
+01FR055,Shatter,Spell,Freljord,2,Common
+01FR038,Ashe,Unit,Freljord,4,Champion
+01FR038T3,Crystal Arrow,Spell,Freljord,2,None
+01FR038T2,Ashe,Unit,Freljord,4,None
+01FR038T1,Ashe's Flash Freeze,Spell,Freljord,3,None
+01FR029,Entreat,Spell,Freljord,2,Rare
+01FR035,Unscarred Reaver,Unit,Freljord,1,Common
+01FR028,Enraged Yeti,Unit,Freljord,1,None
+01FR020,Avalanche,Spell,Freljord,4,Rare
+01FR014,Yeti Yearling,Unit,Freljord,1,Common
+01FR049,Stalking Wolf,Unit,Freljord,2,Common
+01FR037,Avarosan Outriders,Unit,Freljord,4,Rare
+01FR009T1,Braum,Unit,Freljord,4,None
+01FR009T2,Braum's Take Heart,Spell,Freljord,3,None
+01FR026,Alpha Wildclaw,Unit,Freljord,6,Common
+01FR030,Brittle Steel,Spell,Freljord,1,Common
+01FR013,Scarmother Vrynna,Unit,Freljord,6,Epic
+01FR019,Winter's Breath,Spell,Freljord,7,Epic
+01FR041,Avarosan Hearthguard ,Unit,Freljord,5,Epic
+01FR025,Poro Herder,Unit,Freljord,2,Rare
+01FR054,Scarmaiden Reaver,Unit,Freljord,5,Rare
+01FR021,Tarkaz the Tribeless,Unit,Freljord,5,Epic
+01FR021T1,Tarkaz's Fury,Ability,Freljord,0,None
+01FR043,Heart of the Fluft,Unit,Freljord,6,Rare
+01FR049T1,Snow Hare,Unit,Freljord,1,None
+01FR033,Wyrding Stones,Unit,Freljord,3,Common
+01FR011,Icevale Archer,Unit,Freljord,2,Common
+01FR050,Kindly Tavernkeeper,Unit,Freljord,3,Common
+01FR052,She Who Wanders,Unit,Freljord,10,Epic
+01FR052T1,Balesight,Ability,Freljord,0,None
+01FR016,Poro Snax,Spell,Freljord,3,Common
+01FR005,Battle Fury,Spell,Freljord,8,Rare
+01FR023,Warmother's Call,Spell,Freljord,12,Epic
+01FR047,Feral Mystic,Unit,Freljord,2,Common
+01FR056,Icy Yeti,Unit,Freljord,7,Rare
+01FR027,Bull Elnuk,Unit,Freljord,4,Common
+01FR057,Pack Mentality,Spell,Freljord,7,Rare
+01FR004,Elixir of Iron,Spell,Freljord,1,Common
+01FR048,Avarosan Trapper,Unit,Freljord,3,Common
+01FR017,Troop of Elnuks,Unit,Freljord,5,Common
+01FR046,Take Heart,Spell,Freljord,3,Rare
+01FR012,Catalyst of Aeons,Spell,Freljord,5,Common
+01FR040,Rimetusk Shaman,Unit,Freljord,5,Rare
+01FR031,Ancient Yeti,Unit,Freljord,7,Rare
+01FR036T1,Bullseye,Ability,Freljord,0,None
+01FR053,Mighty Poro,Unit,Freljord,3,Common
+01FR010,Bloodsworn Pledge,Spell,Freljord,4,Rare
+01FR001,Flash Freeze,Spell,Freljord,3,Rare
+01FR043T1,Fluft of Poros,Unit,Freljord,6,None
+01FR032,Starlit Seer,Unit,Freljord,2,Rare
+01FR051,Tall Tales,Spell,Freljord,3,Common
+01FR034,They Who Endure,Unit,Freljord,7,Rare
+01FR007,Babbling Bjerg,Unit,Freljord,4,Common
+01FR003,Avarosan Sentry,Unit,Freljord,2,Common
+01SI038,Phantom Prankster,Unit,Shadow Isles,3,Rare
+01SI049,Glimpse Beyond,Spell,Shadow Isles,2,Common
+01SI053,Elise,Unit,Shadow Isles,2,Champion
+01SI053T1,Elise's Crawling Sensation,Spell,Shadow Isles,1,None
+01SI053T2,Spider Queen Elise,Unit,Shadow Isles,2,None
+01SI057,Ancient Crocolith,Unit,Shadow Isles,4,Rare
+01SI023,Soul Shepherd,Unit,Shadow Isles,2,Common
+01SI010,Onslaught of Shadows,Spell,Shadow Isles,2,Common
+01SI042,Hecarim,Unit,Shadow Isles,6,Champion
+01SI042T1,Hecarim,Unit,Shadow Isles,6,None
+01SI042T2,Hecarim's Onslaught of Shadows,Spell,Shadow Isles,2,None
+01SI027,Fresh Offerings,Spell,Shadow Isles,3,Rare
+01SI027T1,Vilemaw,Unit,Shadow Isles,3,None
+01SI048,Cursed Keeper,Unit,Shadow Isles,2,Common
+01SI018,Scribe of Sorrows,Unit,Shadow Isles,3,Common
+01SI030,Kalista,Unit,Shadow Isles,3,Champion
+01SI030T2,Kalista,Unit,Shadow Isles,3,None
+01SI030T1,Kalista's Black Spear,Spell,Shadow Isles,3,None
+01SI035,Rhasa the Sunderer,Unit,Shadow Isles,8,Epic
+01SI035T1,Night Harvest,Ability,Shadow Isles,0,None
+01SI002,Spiderling,Unit,Shadow Isles,1,None
+01SI024,Spectral Rider,Unit,Shadow Isles,2,None
+01SI005,Scuttlegeist,Unit,Shadow Isles,10,Rare
+01SI037,Sinister Poro,Unit,Shadow Isles,1,Common
+01SI048T1,Escaped Abomination,Unit,Shadow Isles,2,None
+01SI052,Thresh,Unit,Shadow Isles,5,Champion
+01SI033,Commander Ledros,Unit,Shadow Isles,9,Epic
+01SI003,The Harrowing,Spell,Shadow Isles,9,Epic
+01SI041,The Undying,Unit,Shadow Isles,3,Epic
+01SI045,Absorb Soul,Spell,Shadow Isles,1,Common
+01SI036,Crawling Sensation,Spell,Shadow Isles,1,Common
+01SI051,Tortured Prodigy,Unit,Shadow Isles,5,Rare
+01SI012,Oblivious Islander,Unit,Shadow Isles,1,Common
+01SI052T2,Thresh's The Box,Spell,Shadow Isles,4,None
+01SI052T1,Thresh,Unit,Shadow Isles,5,None
+01SI031,Iron Harbinger,Unit,Shadow Isles,3,Rare
+01SI034,Black Spear,Spell,Shadow Isles,3,Common
+01SI043,Hapless Aristocrat,Unit,Shadow Isles,1,Common
+01SI009,Stirred Spirits,Unit,Shadow Isles,2,Common
+01SI007,Haunted Relic,Spell,Shadow Isles,2,Common
+01SI007T1,Unleashed Spirit,Unit,Shadow Isles,1,None
+01SI056,Frenzied Skitterer,Unit,Shadow Isles,3,Rare
+01SI001,Vengeance,Spell,Shadow Isles,7,Common
+01SI019,The Box,Spell,Shadow Isles,4,Rare
+01SI014,Mistwraith,Unit,Shadow Isles,2,Common
+01SI022,Mark of the Isles,Spell,Shadow Isles,1,Common
+01SI006,Possession,Spell,Shadow Isles,5,Rare
+01SI033T1,Blade of Ledros,Ability,Shadow Isles,0,None
+01SI028,Splinter Soul,Spell,Shadow Isles,3,Rare
+01SI025,Atrocity,Spell,Shadow Isles,7,Rare
+01SI011,Ravenous Butcher,Unit,Shadow Isles,0,Common
+01SI046,Mist's Call,Spell,Shadow Isles,3,Common
+01SI050,Brood Awakening,Spell,Shadow Isles,6,Rare
+01SI016,Wraithcaller,Unit,Shadow Isles,4,Rare
+01SI021,Shark Chariot,Unit,Shadow Isles,2,Rare
+01SI032,Chronicler of Ruin,Unit,Shadow Isles,4,Common
+01SI058,Ethereal Remitter,Unit,Shadow Isles,5,Rare
+01SI054,Grasp of the Undying,Spell,Shadow Isles,5,Common
+01SI044,Spectral Matron,Unit,Shadow Isles,8,Epic
+01SI039,Arachnoid Horror,Unit,Shadow Isles,2,Common
+01SI020,The Rekindler,Unit,Shadow Isles,7,Rare
+01SI029,Withering Wail,Spell,Shadow Isles,5,Common
+01SI004,Darkwater Scourge,Unit,Shadow Isles,3,Common
+01SI026,Warden's Prey,Unit,Shadow Isles,1,Common
+01SI040,Vile Feast,Spell,Shadow Isles,2,Common
+01SI015,The Ruination,Spell,Shadow Isles,9,Epic
+01SI055,Soulgorger,Unit,Shadow Isles,6,Rare
+01SI047,Fading Memories,Spell,Shadow Isles,0,Rare
+02PZ001,Subpurrsible,Unit,Piltover & Zaun,5,Epic
+02PZ010,Veteran Investigator,Unit,Piltover & Zaun,2,Common
+02PZ006,Gotcha!,Spell,Piltover & Zaun,4,Common
+02PZ004,Vault Breaker,Spell,Piltover & Zaun,3,Rare
+02PZ007,Insightful Investigator,Unit,Piltover & Zaun,4,Rare
+02PZ002,Chief Mechanist Zevi,Unit,Piltover & Zaun,6,Epic
+02PZ008,Vi,Unit,Piltover & Zaun,5,Champion
+02PZ009,Trail of Evidence,Spell,Piltover & Zaun,2,Common
+02PZ003,Suit Up!,Spell,Piltover & Zaun,4,Rare
+02PZ008T2,Vi,Unit,Piltover & Zaun,5,None
+02PZ008T1,Vi's Vault Breaker,Spell,Piltover & Zaun,3,None
+02PZ005,Patrol Wardens,Unit,Piltover & Zaun,3,Common
+02BW040,Shellshocker ,Unit,Bilgewater,1,Common
+02BW057,Slippery Waverider,Unit,Bilgewater,5,Common
+02BW041,The Beast Below,Unit,Bilgewater,4,Common
+02BW013,Prowling Cutthroat,Unit,Bilgewater,1,Common
+02BW034,Monkey Idol,Unit,Bilgewater,3,Rare
+02BW034T1,Powder Monkey,Unit,Bilgewater,1,None
+02BW056,Devourer of the Depths,Unit,Bilgewater,6,Epic
+02BW056T1,Devour,Ability,Bilgewater,0,None
+02BW060,Crackshot Corsair,Unit,Bilgewater,1,Common
+02BW011,Yordle Grifter,Unit,Bilgewater,4,Rare
+02BW030,Shipwreck Hoarder,Unit,Bilgewater,7,Epic
+02BW030T2,Keelbreaker,Spell,Bilgewater,5,None
+02BW030T1,Treasure Trove,Spell,Bilgewater,5,None
+02BW030T4,Vicious Platewyrm,Unit,Bilgewater,5,None
+02BW030T3,Platewyrm Egg,Spell,Bilgewater,5,None
+02BW019,Bubble Bear,Unit,Bilgewater,3,Common
+02BW007,Brash Gambler,Unit,Bilgewater,4,Rare
+02BW014,Coral Creatures,Unit,Bilgewater,2,Rare
+02BW055,Jagged Taskmaster,Unit,Bilgewater,2,Epic
+02BW017,Citrus Courier,Unit,Bilgewater,6,Rare
+02BW038,Zap Sprayfin,Unit,Bilgewater,4,Epic
+02BW021,Razorscale Hunter,Unit,Bilgewater,5,Rare
+02BW035,Sheriff Lariette Rose,Unit,Bilgewater,6,Epic
+02BW058,Jagged Butcher,Unit,Bilgewater,1,Common
+02BW028,Riptide Rex,Unit,Bilgewater,8,Epic
+02BW028T1,Cannon Barrage,Ability,Bilgewater,0,None
+02BW037,Abyssal Eye,Unit,Bilgewater,5,Rare
+02BW008,Petty Officer,Unit,Bilgewater,3,Rare
+02BW008T02,Petty Officer,Unit,Bilgewater,3,None
+02BW008T01,Petty Officer,Unit,Bilgewater,3,None
+02BW047,Dreg Dredgers,Unit,Bilgewater,1,Common
+02BW004,Dreadway Deckhand,Unit,Bilgewater,2,Common
+02BW002,The Dreadway,Unit,Bilgewater,8,Epic
+02BW016,Slotbot,Unit,Bilgewater,3,Rare
+02BW027,Hunting Fleet,Unit,Bilgewater,4,Common
+02BW050,Smooth Soloist,Unit,Bilgewater,7,Rare
+02BW015,The Syren,Unit,Bilgewater,7,Epic
+02BW010,Plunder Poro,Unit,Bilgewater,1,Common
+02BW009,Pool Shark,Unit,Bilgewater,1,Common
+02BW005,Hired Gun,Unit,Bilgewater,2,Common
+02BW039,Jaull Hunters,Unit,Bilgewater,3,Rare
+02BW006,Mystifying Magician,Unit,Bilgewater,4,Rare
+02BW036,Golden Narwhal,Unit,Bilgewater,2,Common
+02BW033,Black Market Merchant,Unit,Bilgewater,2,Rare
+02BW060T1,Crackshot,Ability,Bilgewater,0,None
+02BW032,Gangplank,Unit,Bilgewater,5,Champion
+02BW032T2,Gangplank's Parrrley,Spell,Bilgewater,1,None
+02BW032T3,Gangplank,Unit,Bilgewater,5,None
+02BW032T1,Powder Keg,Unit,Bilgewater,0,None
+02BW032T4,Powderful Explosion,Ability,Bilgewater,0,None
+02BW022,Miss Fortune,Unit,Bilgewater,3,Champion
+02BW022T3,Miss Fortune's Make it Rain,Spell,Bilgewater,2,None
+02BW022T2,Miss Fortune,Unit,Bilgewater,3,None
+02BW022T4,Bullet Time,Ability,Bilgewater,0,None
+02BW022T1,Love Tap,Ability,Bilgewater,0,None
+02BW046,Fizz,Unit,Bilgewater + Bandle City,1,Champion
+02BW046T3,Fizz,Unit,Bilgewater + Bandle City,1,None
+02BW046T2,Longtooth,Unit,Bilgewater,4,None
+02BW046T1,Fizz's Playful Trickster,Spell,Bilgewater,4,None
+02BW026,Twisted Fate,Unit,Bilgewater,4,Champion
+02BW026T5,Gold Card,Ability,Bilgewater,0,None
+02BW026T3,Twisted Fate,Unit,Bilgewater,4,None
+02BW026T1,Twisted Fate's Pick a Card,Spell,Bilgewater,2,None
+02BW026T2,Blue Card,Ability,Bilgewater,0,None
+02BW026T4,Red Card,Ability,Bilgewater,0,None
+02BW053,Nautilus,Unit,Bilgewater,7,Champion
+02BW053T2,Nautilus' Riptide,Spell,Bilgewater,4,None
+02BW053T1,Nautilus,Unit,Bilgewater,7,None
+02BW061,Pocket Aces,Spell,Bilgewater,3,Common
+02BW024,Double Trouble,Spell,Bilgewater,3,Rare
+02BW003,Strong-arm,Spell,Bilgewater,6,Rare
+02BW025,Chum the Waters,Spell,Bilgewater,4,Common
+02BW012,More Powder!,Spell,Bilgewater,2,Common
+02BW018,Parrrley,Spell,Bilgewater,1,Common
+02BW048,Jailbreak,Spell,Bilgewater,1,Common
+02BW043,Pick a Card,Spell,Bilgewater,2,Rare
+02BW051,Playful Trickster,Spell,Bilgewater,4,Rare
+02BW054,Riptide,Spell,Bilgewater,4,Rare
+02BW042,Mind Meld,Spell,Bilgewater,7,Epic
+02BW059,Scrapshot,Spell,Bilgewater,7,Rare
+02BW023,Lure of the Depths,Spell,Bilgewater,3,Rare
+02BW031,Double Up,Spell,Bilgewater,5,Rare
+02BW029,Salvage,Spell,Bilgewater,4,Common
+02BW049,Pilfered Goods,Spell,Bilgewater,3,Common
+02BW001,Ye Been Warned,Spell,Bilgewater,1,Common
+02BW063,Sleight of Hand,Spell,Bilgewater,3,Rare
+02BW045,Make it Rain,Spell,Bilgewater,2,Common
+02BW020,Warning Shot,Spell,Bilgewater,0,Common
+02BW044,Jettison,Spell,Bilgewater,1,Rare
+02BW062,Island Navigator,Unit,Bilgewater,4,Rare
+02FR009,Wolfrider,Unit,Freljord,4,Common
+02FR004,Caught in the Cold,Spell,Freljord,2,Rare
+02FR002,Sejuani,Unit,Freljord,6,Champion
+02FR001,Ember Maiden,Unit,Freljord,3,Rare
+02FR005,Ursine Spiritwalker,Unit,Freljord,5,Common
+02FR005T1,Stormclaw Ursine,Unit,Freljord,5,None
+02FR010,Shared Spoils,Spell,Freljord,2,Rare
+02FR008,The Tuskraider,Unit,Freljord,8,Epic
+02FR002T1,Sejuani's Fury of the North,Spell,Freljord,4,None
+02FR002T3,Sejuani,Unit,Freljord,6,None
+02FR007,Fury of the North,Spell,Freljord,4,Common
+02FR006,Ruthless Raider,Unit,Freljord,2,Common
+02FR003,Aurora Porealis,Spell,Freljord,6,Epic
+02NX001,The Leviathan,Unit,Noxus,8,Epic
+02NX007,Swain,Unit,Noxus,5,Champion
+02NX007T2,Swain,Unit,Noxus,5,None
+02NX007T1,Swain's Ravenous Flock,Spell,Noxus,1,None
+02NX006,Citybreaker,Unit,Noxus,4,Rare
+02NX002,Aurok Glinthorn ,Unit,Noxus,6,Epic
+02NX009,Ravenous Flock,Spell,Noxus,1,Rare
+02NX004,Imperial Demolitionist,Unit,Noxus,2,Common
+02NX003,Noxian Fervor,Spell,Noxus,3,Common
+02NX010,Armored Tuskrider,Unit,Noxus,6,Rare
+02NX004T1,Black Powder Grenade,Ability,Noxus,0,None
+02NX008,Death's Hand,Spell,Noxus,3,Common
+02NX005,Iron Ballista,Unit,Noxus,3,Common
+02DE003,Loyal Badgerbear,Unit,Demacia,3,Common
+02DE008,Greathorn Companion,Unit,Demacia,5,Common
+02DE004,Greenfang Warden,Unit,Demacia,3,Common
+02DE006,Quinn,Unit,Demacia,5,Champion
+02DE006T3,Quinn's Blinding Assault,Spell,Demacia,2,None
+02DE006T2,Valor,Unit,Demacia,2,None
+02DE006T1,Quinn,Unit,Demacia,5,None
+02DE009,Grizzled Ranger,Unit,Demacia,4,Rare
+02DE005,Unyielding Spirit,Spell,Demacia,8,Epic
+02DE002,Blinding Assault,Spell,Demacia,2,Rare
+02DE010,Genevieve Elmheart,Unit,Demacia,6,Epic
+02DE007,Ranger's Resolve,Spell,Demacia,1,Rare
+02DE001,Concerted Strike,Spell,Demacia,5,Common
+02SI005,Sap Magic,Spell,Shadow Isles,3,Rare
+02SI010,Deadbloom Wanderer,Unit,Shadow Isles,3,Common
+02SI008,Maokai,Unit,Shadow Isles,4,Champion
+02SI008T3,Sapling,Unit,Shadow Isles,1,None
+02SI008T1,Maokai's Sap Magic,Spell,Shadow Isles,3,None
+02SI008T2,Maokai,Unit,Shadow Isles,4,None
+02SI007,Thorny Toad,Unit,Shadow Isles,2,Common
+02SI003,Terror of the Tides,Unit,Shadow Isles,8,Epic
+02SI001,Neverglade Collector,Unit,Shadow Isles,5,Rare
+02SI002,Overgrown Snapvine,Unit,Shadow Isles,7,Epic
+02SI004,Blighted Caretaker,Unit,Shadow Isles,3,Rare
+02SI006,Barkbeast,Unit,Shadow Isles,1,Common
+02SI009,Sapling Toss,Spell,Shadow Isles,1,Common
+02IO008,Sonic Wave,Spell,Ionia,2,Common
+02IO008T1,Resonating Strike,Spell,Ionia,1,None
+02IO005T1,Tail of the Dragon,Unit,Ionia,3,None
+02IO002,Scales of the Dragon,Unit,Ionia,3,Common
+02IO002T1,Dragon's Protection,Spell,Ionia,2,None
+02IO006,Lee Sin,Unit,Ionia,5,Champion
+02IO011,Lee Sin's Sonic Wave,Spell,Ionia,2,None
+02IO006T1,Lee Sin,Unit,Ionia,5,None
+02IO006T3,Dragon's Rage,Ability,Ionia,0,None
+02IO004,Horns of the Dragon,Unit,Ionia,6,Common
+02IO003,Eye of the Dragon,Unit,Ionia,2,Epic
+02IO001,Claws of the Dragon,Unit,Ionia,2,Common
+02IO003T1,Dragonling,Unit,Ionia,2,None
+02IO005,Concussive Palm,Spell,Ionia,4,Rare
+02IO010,Retreat,Spell,Ionia,2,Rare
+02IO007,Dragon's Rage,Spell,Ionia,7,Epic
+02IO010T1,Return,Spell,Ionia,1,None
+02IO009,Deep Meditation,Spell,Ionia,5,Rare
+03NX019,Hunt the Weak,Spell,Noxus,2,Rare
+03NX022,Wild Claws,Spell,Noxus,5,Epic
+03NX007,Riven,Unit,Noxus,3,Champion
+03NX008,Heavy Blade Fragment,Spell,Noxus,1,None
+03NX007T3,Riven's Weapon Hilt,Spell,Noxus,2,None
+03NX011,Blade of the Exile,Spell,Noxus,1,None
+03NX010,Keen Blade Fragment,Spell,Noxus,1,None
+03NX007T1,Riven,Unit,Noxus,3,None
+03NX012,Glinting Blade Fragment,Spell,Noxus,1,None
+03NX006,Weapon Hilt,Spell,Noxus,2,Common
+03NX002,Arrel the Tracker,Unit,Noxus,6,Epic
+03NX018,Apprehend,Spell,Noxus,2,Rare
+03NX009,Wrathful Rider,Unit,Noxus,5,Common
+03NX017,Basilisk Bloodseeker,Unit,Noxus,7,Epic
+03NX016,Gouge,Ability,Noxus,0,None
+03NX015,Survival Skills,Spell,Noxus,5,Rare
+03NX014,Sharpened Resolve,Spell,Noxus,3,Common
+03NX003,Blade Squire,Unit,Noxus,1,Common
+03NX001,Runeweaver,Unit,Noxus,2,Common
+03NX005,Brutal Hunter,Unit,Noxus,4,Rare
+03BW006,"Jack, the Winner",Unit,Bilgewater,5,Epic
+03BW010,Bayou Brunch,Spell,Bilgewater,3,Common
+03BW005,Sunk Cost,Spell,Bilgewater,8,Rare
+03BW004,Tahm Kench,Unit,Bilgewater,4,Champion
+03BW004T2,An Acquired Taste,Spell,Bilgewater,2,None
+03BW004T3,Tahm Kench,Unit,Bilgewater,4,None
+03BW004T4,Tahm Kench's Bayou Brunch,Spell,Bilgewater,3,None
+03BW002,Lounging Lizard,Unit,Bilgewater,3,Common
+03BW014,Monkey Business,Spell,Bilgewater,2,Common
+03BW007,Boxtopus,Unit,Bilgewater,2,Common
+03BW006T1,Sleep with the Fishes,Spell,Bilgewater,0,None
+03BW016,Boomship,Spell,Bilgewater,3,Rare
+03BW001,The Slaughter Docks,Landmark,Bilgewater,3,Epic
+03BW015,Crusty Codger,Unit,Bilgewater,1,Common
+03BW003,Wise Fry,Unit,Bilgewater,6,Rare
+03BW017,Wiggly Burblefish,Unit,Bilgewater,6,Epic
+03BW008,Fortune Croaker,Unit,Bilgewater,2,Common
+03BW020,Powder Pandemonium,Spell,Bilgewater,4,Epic
+03BW009,Shakedown,Spell,Bilgewater,1,Rare
+03DE010,The Grand Plaza,Landmark,Demacia,3,Epic
+03MT005,Divergent Paths,Spell,Targon,3,Common
+03FR009,The Howling Abyss,Landmark,Freljord,6,Epic
+03SI009,Vaults of Helia,Landmark,Shadow Isles,5,Epic
+03MT052,Star Spring,Landmark,Targon,2,Epic
+03IO006,Monastery of Hirana,Landmark,Ionia,3,Epic
+03IO016,Sanctuary,Spell,Ionia,1,None
+03NX013,Scorched Earth,Spell,Noxus,3,Common
+03NX004,Noxkraya Arena,Landmark,Noxus,5,Epic
+03MT005T2,Path of Destruction,Spell,Targon,3,None
+03MT005T1,Path of Discovery,Spell,Targon,3,None
+03DE004,Captain Arrika,Unit,Demacia,8,Rare
+03DE004T1,Claim,Ability,Demacia,0,None
+03IO005,Homecoming,Spell,Ionia,4,Common
+03SI008,Crumble,Spell,Shadow Isles,5,Rare
+03MT064,Targon's Peak,Landmark,Targon,5,Epic
+03PZ001,The University of Piltover,Landmark,Piltover & Zaun,5,Epic
+03FR003,It That Stares,Unit,Freljord,8,Rare
+03FR003T3,Extinguishing Ray,Ability,Freljord,0,None
+03FR003T1,Destructive Ray,Ability,Freljord,0,None
+03MT079,Starry Scamp,Unit,Targon,2,Common
+03MT015,Behold the Infinite,Spell,Targon,2,Common
+03MT018,The Messenger,Unit,Targon,2,None
+03MT034,The Serpent,Unit,Targon,0,None
+03MT083,The Immortal Fire,Unit,Targon,8,None
+03MT004,Moonsilver,Spell,Targon,0,None
+03MT037,The Scourge,Unit,Targon,10,None
+03MT059,The Golden Sister,Unit,Targon,6,None
+03MT053,Moonglow,Spell,Targon,2,None
+03MT032,Written in Stars,Spell,Targon,4,None
+03MT024,Supernova,Spell,Targon,9,None
+03MT066,Cosmic Inspiration,Spell,Targon,7,None
+03MT077,Living Legends,Spell,Targon,10,None
+03MT010,The Destroyer,Unit,Targon,7,None
+03MT070,The Traveler,Unit,Targon,4,None
+03MT049,Meteor Shower,Spell,Targon,5,None
+03MT043,Falling Comet,Spell,Targon,6,None
+03MT022,The Great Beyond,Unit,Targon,9,None
+03MT078,Cosmic Rays,Spell,Targon,8,None
+03MT065,Equinox,Spell,Targon,1,None
+03MT050,The Warrior,Unit,Targon,5,None
+03MT011,Crescent Strike,Spell,Targon,3,None
+03MT095,The Trickster,Unit,Targon,3,None
+03MT059T1,The Silver Sister,Unit,Targon,6,None
+03MT090,The Charger,Unit,Targon,1,None
+03MT221,The Fangs,Unit,Targon,4,Epic
+03MT073,Lunari Duskbringer,Unit,Targon,1,Common
+03MT073T1,Duskpetal Dust,Spell,Targon,1,None
+03MT217,Aphelios,Unit,Targon,3,Champion
+03MT217T10,Crescendum,Spell,Targon,3,Common
+03MT217T14,Infernum,Spell,Targon,3,Common
+03MT217T11,Aphelios' Gifts From Beyond,Spell,Targon,1,Common
+03MT217T9,Severum,Spell,Targon,3,Common
+03MT217T8,Calibrum,Spell,Targon,3,Common
+03MT217T13,Aphelios,Unit,Targon,3,Common
+03MT217T12,Gravitum,Spell,Targon,3,Common
+03MT001,Sneaky Zeebles,Unit,Targon,5,Common
+03MT060,Broadbacked Protector,Unit,Targon,4,Epic
+03MT033,Grandfather Rumul,Unit,Targon,8,Rare
+03MT021,The Infinite Mindsplitter,Unit,Targon,8,Epic
+03MT056,Diana,Unit,Targon,2,Champion
+03MT056T1,Diana,Unit,Targon,2,None
+03MT056T2,Diana's Pale Cascade,Spell,Targon,2,None
+03MT067,Crystal Ibex,Unit,Targon,4,Common
+03MT092,Mountain Goat,Unit,Targon,2,Rare
+03MT055,Soraka,Unit,Targon,3,Champion
+03MT055T1,Soraka,Unit,Targon,3,None
+03MT055T2,Soraka's Wish,Spell,Targon,3,None
+03MT048,Gift Giver,Unit,Targon,1,Common
+03MT063,Moondreamer,Unit,Targon,5,Common
+03MT006,Inviolus Vox,Unit,Targon,6,Epic
+03MT054,Leona,Unit,Targon,4,Champion
+03MT054T2,Leona's Morning Light,Spell,Targon,5,None
+03MT054T3,Solar Flare,Ability,Targon,0,None
+03MT054T1,Leona,Unit,Targon,4,None
+03MT014,Herald of Dragons,Unit,Targon,2,Rare
+03MT058,Taric,Unit,Targon,4,Champion
+03MT098,Sunblessed Vigor,Spell,Targon,2,Common
+03MT040,Sparklefly,Unit,Targon,2,Common
+03MT085,Hush,Spell,Targon,3,Rare
+03MT001T1,Mischief,Ability,Targon,0,None
+03MT220,The Cloven Way,Unit,Targon,5,Rare
+03MT075,Lunari Priestess,Unit,Targon,3,Rare
+03MT020,Resplendent Stellacorn,Unit,Targon,5,Common
+03MT071,Tyari the Traveler,Unit,Targon,2,Common
+03MT002,The Skies Descend,Spell,Targon,15,Epic
+03MT009,Zoe,Unit,Targon,1,Champion
+03MT009T2,Zoe's Sleepy Trouble Bubble,Spell,Targon,2,None
+03MT009T1,Zoe,Unit,Targon,1,None
+03MT086,Spacey Sketcher,Unit,Targon,1,Rare
+03MT087,Aurelion Sol,Unit,Targon,10,Champion
+03MT087T1,Aurelion Sol,Unit,Targon,10,None
+03MT087T2,Aurelion Sol's The Skies Descend,Spell,Targon,15,None
+03MT019,Bastion,Spell,Targon,4,Common
+03MT214,The Flight,Unit,Targon,1,Rare
+03MT013,Moonlight Affliction,Spell,Targon,5,Common
+03MT008,Wish,Spell,Targon,3,Rare
+03MT023,Sunburst,Spell,Targon,6,Rare
+03MT096,Solari Priestess,Unit,Targon,3,Rare
+03MT045,Astral Protection,Spell,Targon,4,Common
+03MT080,Spring Guardian,Unit,Targon,3,Common
+03MT080T1,Spring Gifts,Spell,Targon,1,None
+03MT042,Spell Thief,Spell,Targon,1,Rare
+03MT057,Solari Sunforger,Unit,Targon,4,Common
+03MT091,Supercool Starchart,Spell,Targon,2,Rare
+03MT044,Sun Guardian,Unit,Targon,6,Epic
+03MT041,Mentor of the Stones,Unit,Targon,3,Epic
+03MT028,Solari Shieldbearer,Unit,Targon,2,Common
+03MT072,Fused Firebrand,Unit,Targon,5,Common
+03MT025,Shards of the Mountain,Spell,Targon,4,Epic
+03MT017,Messenger's Sigil,Spell,Targon,1,Rare
+03MT051,Guiding Touch,Spell,Targon,2,Common
+03MT012,Arbiter of the Peak,Unit,Targon,10,Epic
+03MT094,Lunari Shadestalker,Unit,Targon,2,Common
+03MT076,Mountain Scryer,Unit,Targon,4,Rare
+03MT215,Gifts From Beyond,Spell,Targon,1,Common
+03MT100,Eclipse Dragon,Unit,Targon,7,Rare
+03MT058T1,Taric,Unit,Targon,4,None
+03MT058T2,Taric's Blessing of Targon,Spell,Targon,5,None
+03MT029,Star Shepherd,Unit,Targon,1,Rare
+03MT219,The Veiled Temple,Landmark,Targon,4,Rare
+03MT092T1,Gem,Spell,Targon,1,None
+03MT062,Giddy Sparkleologist,Unit,Targon,3,Rare
+03MT082,Morning Light,Spell,Targon,5,Rare
+03MT047,Cygnus the Moonstalker,Unit,Targon,6,Epic
+03MT038,Whiteflame Protector,Unit,Targon,4,Common
+03MT081,Mountain Sojourners,Unit,Targon,5,Epic
+03MT007,Fledgling Stellacorn,Unit,Targon,3,Common
+03MT220T1,Sky Charge,Ability,Targon,0,Common
+03MT216,The Sky Shadows,Unit,Targon,2,Common
+03MT026,"Rahvun, Daylight's Spear",Unit,Targon,5,Rare
+03MT093,Paddle Star,Spell,Targon,3,Common
+03MT110,Out Of The Way,Spell,Targon,5,Epic
+03MT003,Dragon's Clutch,Spell,Targon,3,Rare
+03MT030,Stargazer,Unit,Targon,4,Rare
+03MT088,Solari Soldier,Unit,Targon,1,Common
+03MT089,Crescent Guardian,Unit,Targon,3,Rare
+03MT027,Zenith Blade,Spell,Targon,3,Common
+03MT218,Starbone,Spell,Targon,2,Epic
+03MT084,Starshaping,Spell,Targon,5,Common
+03MT016,Startled Stomper,Unit,Targon,2,Common
+03MT074,Sleepy Trouble Bubble,Spell,Targon,2,Rare
+03MT035,Pale Cascade,Spell,Targon,2,Common
+03MT003T1,Hatched Egg,Spell,Targon,3,None
+03MT003T2,Crushed Egg,Spell,Targon,3,None
+03MT036,Blessing of Targon,Spell,Targon,5,Rare
+03MT039,Porofly,Unit,Targon,1,Common
+03PZ019,Patched Porobot,Unit,Piltover & Zaun,2,Rare
+03PZ005,Ballistic Bot,Unit,Piltover & Zaun,2,Common
+03PZ004,Death Ray - Mk 1,Spell,Piltover & Zaun,1,Rare
+03PZ004T2,Death Ray - Mk 3,Spell,Piltover & Zaun,3,None
+03PZ004T1,Death Ray - Mk 2,Spell,Piltover & Zaun,2,None
+03PZ003,Viktor,Unit,Piltover & Zaun,4,Champion
+03PZ003T1,Viktor,Unit,Piltover & Zaun,4,None
+03PZ003T15,Viktor's Death Ray - Mk 1,Spell,Piltover & Zaun,1,None
+03PZ003T11,Hex Core Upgrade,Spell,Piltover & Zaun,1,None
+03PZ010,Mechanized Mimic,Unit,Piltover & Zaun,5,Epic
+03PZ022,Give It All,Spell,Piltover & Zaun,8,Epic
+03PZ014,Calculated Creations,Spell,Piltover & Zaun,2,Common
+03PZ013,Iterative Improvement,Spell,Piltover & Zaun,2,Common
+03PZ025,Stress Testing,Spell,Piltover & Zaun,1,Rare
+03PZ012,Armed Gearhead,Unit,Piltover & Zaun,1,Common
+03PZ020,Hexcore Foundry,Landmark,Piltover & Zaun,3,Rare
+03PZ016,Ignition,Spell,Piltover & Zaun,1,None
+03PZ002,Nyandroid,Unit,Piltover & Zaun,3,Rare
+03PZ011,Aftershock,Spell,Piltover & Zaun,4,Common
+03PZ017,Tri-beam Improbulator,Spell,Piltover & Zaun,5,Epic
+03PZ018,Poro Cannon,Spell,Piltover & Zaun,0,Common
+03SI004,Stalking Shadows,Spell,Shadow Isles,3,Rare
+03SI001,Evershade Stalker,Unit,Shadow Isles,2,Epic
+03SI018,Gluttony,Spell,Shadow Isles,3,Rare
+03SI012,Passage Unearned,Spell,Shadow Isles,3,Rare
+03SI014,Encroaching Shadows,Spell,Shadow Isles,4,Epic
+03SI016,Go Hard,Spell,Shadow Isles,1,Epic
+03SI016T1,Pack Your Bags,Spell,Shadow Isles,5,None
+03SI007,Shroud of Darkness,Spell,Shadow Isles,1,Common
+03SI013,Risen Mists,Spell,Shadow Isles,4,Common
+03SI005,Nocturne,Unit,Shadow Isles,4,Champion
+03SI005T3,Nocturne's Unspeakable Horror,Spell,Shadow Isles,2,None
+03SI005T1,Nocturne,Unit,Shadow Isles,4,None
+03SI006,Doombeast,Unit,Shadow Isles,3,Common
+03SI015,Pesky Specter,Unit,Shadow Isles,0,Common
+03SI006T1,Torment,Ability,Shadow Isles,0,None
+03SI003,Stygian Onlooker,Unit,Shadow Isles,1,Common
+03SI002,Unspeakable Horror,Spell,Shadow Isles,2,Common
+03SI010,Duskrider,Unit,Shadow Isles,5,Rare
+03IO025,Flurry of Fists,Spell,Ionia,4,Rare
+03IO017,Pix!,Unit,Ionia,1,Common
+03IO008,Whimsy!,Spell,Ionia,4,Common
+03IO008T1,Squirrel,Unit,Ionia,1,None
+03IO001,Flower Child,Unit,Ionia,1,Common
+03IO019,Singular Will,Spell,Ionia,10,Epic
+03IO002,Lulu,Unit,Ionia + Bandle City,3,Champion
+03IO002T4,"Help, Pix!",Spell,Ionia,1,None
+03IO002T5,Lulu's Whimsy!,Spell,Ionia,4,None
+03IO002T1,Lulu,Unit,Ionia + Bandle City,3,None
+03IO011,Swole Squirrel,Unit,Ionia,4,Rare
+03IO009,Tasty Faefolk,Unit,Ionia,3,Common
+03IO003,Fae Guide,Unit,Ionia,4,Rare
+03IO007,Trevor Snoozebottom,Unit,Ionia,3,Epic
+03IO007T1,Mumblesprite,Unit,Ionia,3,None
+03IO010,Young Witch,Unit,Ionia,2,Common
+03IO020,Nopeify!,Spell,Ionia,2,Rare
+03IO022,Go Get It,Spell,Ionia,5,Epic
+03IO018,Fuzzy Caretaker,Unit,Ionia,3,Rare
+03DE008,Dragonguard Lieutenant,Unit,Demacia,2,Common
+03DE001,Confront,Spell,Demacia,2,Common
+03DE015,Stony Suppressor,Unit,Demacia,2,Rare
+03DE006,Screeching Dragon,Unit,Demacia,5,Common
+03DE025,Molten Breath,Spell,Demacia,6,Rare
+03DE002,Strafing Strike,Spell,Demacia,3,Rare
+03DE011,Shyvana,Unit,Demacia,4,Champion
+03DE011T1,Dragon Shyvana,Unit,Demacia,4,None
+03DE011T2,Shyvana's Confront,Spell,Demacia,2,None
+03DE003,Dragonguard Lookout,Unit,Demacia,6,Rare
+03DE013,Stalking Broodmother,Unit,Demacia,7,Common
+03DE005,Egghead Researcher,Unit,Demacia,2,Common
+03DE007,Kadregrin the Infernal,Unit,Demacia,9,Epic
+03DE012,For The Fallen,Spell,Demacia,8,Epic
+03DE014,Sharpsight,Spell,Demacia,2,Common
+03FR020,The Scargrounds,Landmark,Freljord,3,Epic
+03FR007,Troll Scavenger,Unit,Freljord,2,Common
+03FR004,Revitalizing Roar,Spell,Freljord,7,Rare
+03FR017,Augur of the Old Ones,Unit,Freljord,6,Rare
+03FR006,Trundle,Unit,Freljord,5,Champion
+03FR006T2,Trundle,Unit,Freljord,5,None
+03FR006T3,Trundle's Icequake,Spell,Freljord,8,None
+03FR006T1,Ice Pillar,Unit,Freljord,8,None
+03FR008,Icequake ,Spell,Freljord,8,Epic
+03FR002,Troll Chant,Spell,Freljord,2,Common
+03FR011,Uzgar the Ancient,Unit,Freljord,8,Rare
+03FR005,Troll Ravager,Unit,Freljord,4,Common
+03FR018,Call the Wild,Spell,Freljord,3,Common
+03FR010,Faces of the Old Ones,Unit,Freljord,2,Common
+03FR019,Voices of the Old Ones,Spell,Freljord,8,Common
+03FR025,Troll Gifts,Spell,Freljord,2,Rare
+03FR022,Feel The Rush,Spell,Freljord,12,Epic
+04PZ001,Ekko,Unit,Piltover & Zaun,4,Champion
+04PZ001T4,Chronobreak,Spell,Piltover & Zaun,3,None
+04PZ001T2,Ekko's Called Shot,Spell,Piltover & Zaun,2,None
+04PZ001T3,Ekko,Unit,Piltover & Zaun,4,None
+04PZ005,Chirean Sumpworker,Unit,Piltover & Zaun,2,Common
+04PZ005T2,Circuit Breaker,Ability,Piltover & Zaun,0,None
+04PZ005T1,Sumpworks Posse,Unit,Piltover & Zaun,2,None
+04PZ014,Production Surge,Spell,Piltover & Zaun,0,Rare
+04PZ003,Timewinder,Spell,Piltover & Zaun,2,Common
+04PZ011,Called Shot,Spell,Piltover & Zaun,2,Epic
+04PZ011T1,Parallel Convergence,Spell,Piltover & Zaun,4,None
+04PZ002,Fallen Feline,Unit,Piltover & Zaun,1,Rare
+04PZ020,Defective Swapbot,Unit,Piltover & Zaun,4,Rare
+04PZ013,Volunteer Elnuk,Unit,Piltover & Zaun,3,Rare
+04PZ002T1,Hexite Crystal,Spell,Piltover & Zaun,2,None
+04PZ010,Concurrent Timelines,Spell,Piltover & Zaun,1,Epic
+04PZ016,Boom Baboon,Unit,Piltover & Zaun,2,Common
+04PZ007,Time Trick,Spell,Piltover & Zaun,2,Common
+04PZ012,Practical Perfectionist,Unit,Piltover & Zaun,3,Rare
+04PZ020T1,Swapbot's Swap,Ability,Piltover & Zaun,0,Common
+04PZ017,Glorious Evolution,Spell,Piltover & Zaun,10,Epic
+04PZ015,Adaptatron 3000,Unit,Piltover & Zaun,1,Epic
+04PZ004,Dropboarder,Unit,Piltover & Zaun,1,Common
+04BW002,Bone Skewer,Spell,Bilgewater,2,Epic
+04BW007,Jaull-fish,Unit,Bilgewater,8,Epic
+04BW001,Redfin Hammersnout,Unit,Bilgewater,2,Common
+04BW005,Pyke,Unit,Bilgewater,4,Champion
+04BW005T3,Death From Below,Spell,Bilgewater,4,None
+04BW005T2,Pyke,Unit,Bilgewater,4,None
+04BW005T1,Pyke's Bone Skewer,Spell,Bilgewater,2,None
+04BW010,Monster Harpoon,Spell,Bilgewater,6,Common
+04BW014,Line 'Em Up,Spell,Bilgewater,2,Common
+04BW011,Loaded Dice,Spell,Bilgewater,4,Epic
+04BW015,Sharkling,Unit,Bilgewater,1,Common
+04BW003,Snapjaw Swarm,Unit,Bilgewater,2,Common
+04BW009,Ripper's Bay,Landmark,Bilgewater,1,Rare
+04BW008,Lost Riches,Spell,Bilgewater,4,Rare
+04BW014T1,Knock 'Em Down,Spell,Bilgewater,1,None
+04BW013,Reaver's Row,Landmark,Bilgewater,5,Rare
+04BW007T1,Frenzied Feast,Ability,Bilgewater,0,None
+04BW004,Bloodbait,Spell,Bilgewater,1,Common
+04BW016,Ruined Rex,Unit,Bilgewater,5,Rare
+04BW006,The List,Spell,Bilgewater,0,Rare
+04IO008,Defiant Dance,Spell,Ionia,4,Common
+04IO005,Irelia,Unit,Ionia,3,Champion
+04IO020,Scattered Pod,Unit,Ionia,6,Rare
+04IO005T4,Bladesurge,Spell,Ionia,0,None
+04IO005T1,Irelia's Vanguard's Edge,Spell,Ionia,7,None
+04IO005T2,Irelia,Unit,Ionia,3,None
+04IO005T5,Flawless Duet,Spell,Ionia,2,None
+04IO004,Blossoming Blade,Unit,Ionia,5,Common
+04IO003,Vanguard's Edge,Spell,Ionia,7,Rare
+04IO015,Dancing Droplet,Unit,Ionia,1,Common
+04IO014,Shadow Apprentice,Unit,Ionia,1,Common
+04IO002,"Zinneia, Steel Crescendo",Unit,Ionia,8,Epic
+04IO010,Blade,Unit,Ionia,1,Common
+04IO007,Syncopation,Spell,Ionia,2,Rare
+04IO011,Lead and Follow,Spell,Ionia,2,Common
+04IO020T1,Scattered Pod,Unit,Ionia,6,Common
+04IO020T2,Scattered Pod,Unit,Ionia,6,Common
+04IO020T3,Scattered Pod,Unit,Ionia,6,Common
+04IO013,Sacred Protector,Unit,Ionia,7,Epic
+04IO012,Shadows of the Past,Spell,Ionia,5,Rare
+04IO009,Ribbon Dancer,Unit,Ionia,2,Rare
+04IO001,Field Musicians,Unit,Ionia,4,Epic
+04IO006,Coastal Defender,Unit,Ionia,4,Common
+04SH100,Careful Preparation,Spell,Shurima,3,Common
+04SH070,Unworthy,Spell,Shurima,2,Epic
+04SH081,Baccai Sandspinner,Unit,Shurima,4,Rare
+04SH059T2,Rite of Negation,Spell,Shurima,4,None
+04SH059T1,Rite of Negation,Spell,Shurima,4,None
+04SH077,Voice of the Risen,Unit,Shurima,4,Epic
+04SH019,Rek'Sai,Unit,Shurima,3,Champion
+04SH019T2,Rek'Sai's Call the Pack,Spell,Shurima,2,None
+04SH019T1,Rek'Sai,Unit,Shurima,3,None
+04SH138,The Absolver,Spell,Shurima,2,Common
+04SH089,Desert Naturalist,Unit,Shurima,4,Rare
+04SH089T1,Teen Spirit,Ability,Shurima,0,None
+04SH015,Raz Bloodmane,Unit,Shurima,7,Epic
+04SH058,Sandcrafter,Unit,Shurima,4,Common
+04SH080,Call the Pack,Spell,Shurima,2,Common
+04SH035,Payday,Spell,Shurima,2,Common
+04SH028,Ancient Preparations,Landmark,Shurima,1,Common
+04SH054,Treasure Seeker,Unit,Shurima,1,Common
+04SH002,Baccai Reaper,Unit,Shurima,1,Rare
+04SH042,Hibernating Rockbear,Landmark,Shurima,2,Common
+04SH032,Callous Bonecrusher,Unit,Shurima,4,Common
+04SH055,Ruin Runner,Unit,Shurima,5,Common
+04SH039,Zilean,Unit,Shurima,2,Champion
+04SH060T1,Time Bomb,Landmark,Shurima,2,None
+04SH039T2,Zilean's Chronoshift,Spell,Shurima,7,None
+04SH039T1,Zilean,Unit,Shurima,2,None
+04SH073,Taliyah,Unit,Shurima,5,Champion
+04SH073T2,Taliyah,Unit,Shurima,5,None
+04SH073T1,Threaded Volley,Ability,Shurima,0,None
+04SH073T3,Taliyah's Stoneweaving,Spell,Shurima,1,None
+04SH091,Khahiri the Student,Unit,Shurima,3,Common
+04SH024,Salt Spire,Landmark,Shurima,4,Common
+04SH003,Azir,Unit,Shurima,3,Champion
+04SH003T2,Azir,Unit,Shurima,3,None
+04SH003T3,Azir,Unit,Shurima,3,None
+04SH003T14,Sandstone Charger,Unit,Shurima,2,None
+04SH003T5,Golden Herald,Unit,Shurima,5,None
+04SH003T4,Azir's Arise!,Spell,Shurima,3,None
+04SH003T10,General's Palace,Landmark,Shurima,5,None
+04SH003T1,Sand Soldier,Unit,Shurima,1,None
+04SH003T8,Eternal Gladiator,Unit,Shurima,7,None
+04SH003T6,Crumbling Sands,Spell,Shurima,4,None
+04SH003T12,Sandstorm,Spell,Shurima,9,None
+04SH003T11,Emperor's Guard,Unit,Shurima,2,None
+04SH003T7,Shimmering Mirage,Spell,Shurima,3,None
+04SH003T13,Ascended's Call,Spell,Shurima,10,None
+04SH003T9,Emperor's Prosperity,Spell,Shurima,2,None
+04SH011,Xenotype Researchers,Unit,Shurima,3,Rare
+04SH130,Akshan,Unit,Shurima,2,Champion
+04SH130T5,Akshan's Grappling Hook,Spell,Shurima,3,None
+04SH130T2,Akshan,Unit,Shurima,2,Champion
+04SH130T1,Warlord's Palace,Landmark,Shurima,1,None
+04SH130T6,Warlord's Hoard,Landmark,Shurima,1,None
+04SH130T13,Sentinel's Hoard,Spell,Shurima,0,Common
+04SH130T7,Fount of Power,Spell,Shurima,0,None
+04SH130T14,The Absolver's Resurrection,Spell,Shurima,0,None
+04SH130T8,Shield of the Sentinels,Spell,Shurima,0,None
+04SH130T10,Relic of Power,Spell,Shurima,0,None
+04SH130T12,Relic of Power,Spell,Shurima,0,None
+04SH130T9,Relic of Power,Spell,Shurima,0,None
+04SH130T11,Relic of Power,Spell,Shurima,0,None
+04SH114,Desert's Wrath,Spell,Shurima,4,Rare
+04SH067,Renekton,Unit,Shurima,4,Champion
+04SH067T1,Renekton,Unit,Shurima,4,None
+04SH067T4,Renekton,Unit,Shurima,4,None
+04SH067T2,Renekton's Ruthless Predator,Spell,Shurima,2,None
+04SH067T5,Dominus Destruction,Ability,Shurima,0,None
+04SH138T1,The Absolver's Return,Spell,Shurima,2,None
+04SH120,Imagined Possibilities,Spell,Shurima,1,Rare
+04SH119,Ricochet,Spell,Shurima,6,Common
+04SH068,Xer'sai Caller,Unit,Shurima,3,Common
+04SH093,Shaped Stone,Spell,Shurima,1,Common
+04SH079,Scrying Sands,Spell,Shurima,1,Rare
+04SH038,Rock Hopper,Unit,Shurima,2,Common
+04SH104,Preservationist,Unit,Shurima,5,Rare
+04SH128,Vekauran Vagabond,Unit,Shurima,3,Common
+04SH043,Shifting Sands,Spell,Shurima,6,Rare
+04SH099,Arise!,Spell,Shurima,3,Rare
+04SH048,Inner Sanctum,Landmark,Shurima,3,Common
+04SH056,Profiteer,Unit,Shurima,4,Common
+04SH098T3,Lucky Find,Spell,Shurima,0,None
+04SH098T12,Lucky Find,Spell,Shurima,0,None
+04SH098T7,Lucky Find,Spell,Shurima,0,None
+04SH098T6,Lucky Find,Spell,Shurima,0,None
+04SH098T2,Lucky Find,Spell,Shurima,0,None
+04SH098T10,Lucky Find,Spell,Shurima,0,None
+04SH098T5,Lucky Find,Spell,Shurima,0,None
+04SH098T8,Lucky Find,Spell,Shurima,0,None
+04SH098T1,Lucky Find,Spell,Shurima,0,None
+04SH098,Lucky Find,Spell,Shurima,0,None
+04SH020,Sivir,Unit,Shurima,4,Champion
+04SH057,Inspiring Marshal,Unit,Shurima,6,Rare
+04SH103,Merciless Hunter,Unit,Shurima,3,Common
+04SH120T2,Imagined Possibilities,Spell,Shurima,1,None
+04SH120T1,Imagined Possibilities,Spell,Shurima,1,None
+04SH006,Roiling Sands,Landmark,Shurima,2,Common
+04SH076T1,Stasis Statue,Landmark,Shurima,2,None
+04SH065,"Xerxa'Reth, The Undertitan",Unit,Shurima,5,Epic
+04SH034,The Clock Hand,Unit,Shurima,8,Epic
+04SH034T1,Instant Century,Spell,Shurima,0,None
+04SH034T2,Instant Century,Spell,Shurima,0,None
+04SH034T3,Instant Century,Spell,Shurima,0,None
+04SH082,Ruinous Path,Spell,Shurima,2,Rare
+04SH075,Emperor's Divide,Spell,Shurima,7,Epic
+04SH018,Rite of Dominance,Spell,Shurima,4,Rare
+04SH009,Rampaging Baccai,Unit,Shurima,5,Rare
+04SH049,Destined Poro,Unit,Shurima,1,Common
+04SH049T1,Exalted Poro,Unit,Shurima,1,None
+04SH045,Exhaust,Spell,Shurima,1,Common
+04SH037,Unraveled Earth,Spell,Shurima,3,Rare
+04SH107,Ascended's Rise,Spell,Shurima,7,Epic
+04SH047,Nasus,Unit,Shurima,6,Champion
+04SH097,Sanctum Conservator,Unit,Shurima,8,Epic
+04SH026,Dunekeeper,Unit,Shurima,1,Common
+04SH102,Golden Ambassador,Unit,Shurima,4,Common
+04SH001,Aspiring Chronomancer,Unit,Shurima,2,Common
+04SH022,Xer'sai Dunebreaker,Unit,Shurima,6,Rare
+04SH009T1,Baccai Rampage,Ability,Shurima,0,None
+04SH030,Chronoshift,Spell,Shurima,7,Rare
+04SH013,Preservarium,Landmark,Shurima,2,Rare
+04SH062,Buried Sun Disc,Landmark,Shurima,1,Epic
+04SH016,Siphoning Strike,Spell,Shurima,5,Rare
+04SH125,Vekauran Safecracker,Unit,Shurima,4,Rare
+04SH108,Boomerang Blade,Spell,Shurima,7,Rare
+04SH066,Time in a Bottle,Spell,Shurima,2,Common
+04SH014,Clockling,Unit,Shurima,1,Common
+04SH047T1,Nasus' Siphoning Strike,Spell,Shurima,5,None
+04SH047T2,Nasus,Unit,Shurima,6,None
+04SH047T3,Nasus,Unit,Shurima,6,None
+04SH021,Khahiri the Returned,Unit,Shurima,6,Rare
+04SH101,Devoted Council,Unit,Shurima,3,Rare
+04SH012,Esteemed Hierophant,Unit,Shurima,3,Common
+04SH020T2,Sivir's Ricochet,Spell,Shurima,6,None
+04SH020T1,Sivir,Unit,Shurima,4,None
+04SH031,Promising Future,Spell,Shurima,4,Epic
+04SH004,Weight of Judgment,Spell,Shurima,4,Common
+04SH059,Rite of Negation,Spell,Shurima,4,Epic
+04SH044,Clockwork Curator,Unit,Shurima,2,Common
+04SH076,Ancient Hourglass,Spell,Shurima,2,Rare
+04SH118,Waking Sands,Spell,Shurima,2,Common
+04SH072,Soothsayer,Unit,Shurima,2,Common
+04SH041,Sai Scout,Unit,Shurima,3,Common
+04SH005,Bloodthirsty Marauder,Unit,Shurima,1,Common
+04SH083,Feral Prescience,Spell,Shurima,0,Rare
+04SH092,The Time Has Come,Spell,Shurima,5,Common
+04SH046,Sandstone Chimera,Unit,Shurima,12,Rare
+04SH062T1,Restored Sun Disc,Landmark,Shurima,0,None
+04SH018T2,Rite of Dominance,Spell,Shurima,4,None
+04SH018T1,Rite of Dominance,Spell,Shurima,4,None
+04SH105,Sandswept Tomb,Landmark,Shurima,5,Rare
+04SH131,Grappling Hook,Spell,Shurima,3,Rare
+04SH074,Xer'sai Hatchling,Unit,Shurima,1,Common
+04SH137,Thrumming Swarm,Unit,Shurima,7,Epic
+04SH069,Ruthless Predator,Spell,Shurima,2,Common
+04SH121,Rite of Calling,Spell,Shurima,0,Common
+04SH121T1,Rite of Calling,Spell,Shurima,0,None
+04SH121T2,Rite of Calling,Spell,Shurima,0,None
+04SH097T1,Conservator's Judgment,Ability,Shurima,0,None
+04SH110,Stoneweaving,Spell,Shurima,1,Epic
+04SH051,Emperor's Dais,Landmark,Shurima,2,Rare
+04SH106,Spirit Fire,Spell,Shurima,7,Rare
+04SH129,Vekauran Bruiser,Unit,Shurima,5,Rare
+04SH109,Quicksand,Spell,Shurima,3,Common
+04SH090,Grumpy Rockbear,Unit,Shurima,5,Common
+04FR006,Draklorn Inquisitor,Unit,Freljord,5,Epic
+04FR012,Buried in Ice,Spell,Freljord,9,Epic
+04FR016,Spoils of War,Spell,Freljord,3,Common
+04FR001T1,Frostguard Thrall,Unit,Freljord,8,None
+04FR013,Cold Resistance,Spell,Freljord,5,Common
+04FR005,Lissandra,Unit,Freljord,3,Champion
+04FR005T4,Watcher,Unit,Freljord,17,None
+04FR005T1,Lissandra,Unit,Freljord,3,None
+04FR005T2,Lissandra's Entomb,Spell,Freljord,5,None
+04FR011,Succumb to the Cold,Spell,Freljord,4,Common
+04FR019T1,Rimefang Pack,Unit,Freljord,1,None
+04FR001,Frozen Thrall,Landmark,Freljord,1,Common
+04FR007,Entomb,Spell,Freljord,5,Rare
+04FR007T1,Frozen Tomb,Landmark,Freljord,0,None
+04FR017,Ancestral Boon,Spell,Freljord,2,Common
+04FR014,Blighted Ravine,Landmark,Freljord,4,Rare
+04FR009,Ice Shard,Spell,Freljord,3,Common
+04FR015,Fabled Poro,Unit,Freljord,4,Rare
+04FR019,Rimefang Denmother,Unit,Freljord,6,Rare
+04FR018,Abominable Guardian,Unit,Freljord,8,Epic
+04FR010,Three Sisters,Spell,Freljord,1,Rare
+04NX002,Whispered Words,Spell,Noxus,4,Rare
+04NX010,Thorn of the Rose,Unit,Noxus,3,Common
+04NX021,Retired Reckoner,Unit,Noxus,5,Rare
+04NX022,Ruined Reckoner,Unit,Noxus,4,Rare
+04NX022T1,Midnight Raid,Spell,Noxus,0,None
+04NX015,Bloody Business,Spell,Noxus,4,Common
+04NX019,Thrashing Snapper,Unit,Noxus,1,Epic
+04NX008,Incisive Tactician,Unit,Noxus,8,Rare
+04NX006,Black Rose Spy,Unit,Noxus,2,Epic
+04NX001,Mimic,Spell,Noxus,3,Rare
+04NX004,LeBlanc,Unit,Noxus,3,Champion
+04NX004T1,LeBlanc's Sigil of Malice,Spell,Noxus,4,None
+04NX005,Mirror Image,Spell,Noxus,2,None
+04NX004T2,LeBlanc,Unit,Noxus,3,None
+04NX016,Shrieking Spinner,Unit,Noxus,4,Rare
+04NX007,"Atakhan, Bringer of Ruin",Unit,Noxus,10,Epic
+04NX018,Crimson Bloodletter ,Unit,Noxus,1,Common
+04NX003,Sigil of Malice,Spell,Noxus,4,Common
+04NX017,Strength in Numbers,Spell,Noxus,8,Common
+04NX009,Thorned Blade,Spell,Noxus,4,Common
+04SI005,Kindred,Unit,Shadow Isles,5,Champion
+04SI005T4,Kindred's Spirit Journey,Spell,Shadow Isles,5,None
+04SI005T1,Kindred,Unit,Shadow Isles,5,None
+04SI055,Viego,Unit,Shadow Isles,5,Champion
+04SI055T1,Viego's Despair,Spell,Shadow Isles,4,None
+04SI055T2,Viego,Unit,Shadow Isles,5,Champion
+04SI016,Spirit Leech ,Unit,Shadow Isles,4,Common
+04SI007,The Etherfiend,Unit,Shadow Isles,7,Rare
+04SI011,Unto Dusk,Spell,Shadow Isles,2,Rare
+04SI018,The Twisted Treeline,Landmark,Shadow Isles,3,Epic
+04SI015,Sea Scarab,Unit,Shadow Isles,2,Rare
+04SI045,Encroaching Mist,Unit,Shadow Isles,1,None
+04SI004,The Wings and The Wave,Unit,Shadow Isles,1,Epic
+04SI004T1,Last Wind,Unit,Shadow Isles,1,None
+04SI004T2,First Wave,Unit,Shadow Isles,1,None
+04SI017,Song of the Isles,Spell,Shadow Isles,2,Common
+04SI054,Camavoran Soldier,Unit,Shadow Isles,3,Common
+04SI001,Lamb's Respite,Spell,Shadow Isles,2,Epic
+04SI056,Withering Mist,Spell,Shadow Isles,5,Rare
+04SI012,Astral Fox,Unit,Shadow Isles,4,Common
+04SI029,Despair,Spell,Shadow Isles,4,Common
+04SI012T1,Symmetry In Stars,Ability,Shadow Isles,0,None
+04SI009,Soulspinner,Unit,Shadow Isles,3,Common
+04SI013,Mask Mother,Unit,Shadow Isles,2,Common
+04SI007T3,The Second Death,Ability,Shadow Isles,0,None
+04SI021,Crawling Viperwyrm,Unit,Shadow Isles,2,Common
+04SI002,Spirit Journey,Spell,Shadow Isles,5,Rare
+04SI053,Invasive Hydravine,Unit,Shadow Isles,7,Epic
+04SI003,Fading Icon,Unit,Shadow Isles,2,Common
+04SI014,Prey,Unit,Shadow Isles,0,Common
+04SI028,Camavoran Dragon,Unit,Shadow Isles,4,Rare
+04MT014,Eye of the Ra-Horak,Landmark,Targon,5,Rare
+04MT008,Malphite,Unit,Targon,7,Champion
+04MT008T1,Malphite,Unit,Targon,7,None
+04MT008T4,Unstoppable Force,Spell,Targon,2,None
+04MT008T5,Malphite's Ground Slam,Spell,Targon,4,None
+04MT010,Startipped Peak,Landmark,Targon,2,Rare
+04MT005,Chip,Unit,Targon,1,Common
+04MT009,Spiral Stairs,Landmark,Targon,3,Rare
+04MT009T1,Seed of Strength,Spell,Targon,0,None
+04MT001,Rockfall Path,Landmark,Targon,2,Common
+04MT018,Frightened Ibex,Unit,Targon,1,Common
+04MT004,Blue Sentinel,Unit,Targon,2,Common
+04MT013,Solari Sunhawk,Unit,Targon,2,Common
+04MT003,Earth Elemental,Unit,Targon,4,Common
+04MT004T1,Crest of Insight,Landmark,Targon,2,None
+04MT002,Stonebreaker,Unit,Targon,6,Epic
+04MT006,Starlit Epiphany,Spell,Targon,3,Epic
+04MT012,Destiny's Call,Spell,Targon,8,Epic
+04MT007,Ground Slam ,Spell,Targon,4,Rare
+04MT013T1,Blinding Crest,Ability,Targon,0,None
+04MT002T2,Shaken Ground,Ability,Targon,0,None
+04MT015,Heavens Aligned,Spell,Targon,1,Common
+04DE004,Ardent Tracker,Unit,Demacia,6,Rare
+04DE014,Dragon Chow,Unit,Demacia,1,Common
+04DE001,Honored Lord,Unit,Demacia,2,Common
+04DE012,Field Promotion,Spell,Demacia,2,Common
+04DE003,Cataclysm,Spell,Demacia,3,Rare
+04DE002,Golden Aegis,Spell,Demacia,4,Rare
+04DE006,Battlefield Prowess,Spell,Demacia,1,Common
+04DE007T1,Tattered Banner,Spell,Demacia,1,None
+04DE008,Jarvan IV,Unit,Demacia,6,Champion
+04DE008T1,Jarvan IV,Unit,Demacia,6,None
+04DE008T2,Jarvan IV's Cataclysm,Spell,Demacia,3,None
+04DE005,"Cithria, Lady of Clouds",Unit,Demacia,10,Epic
+04DE020,Ruined Dragonguard,Unit,Demacia,3,Common
+04DE010,King Jarvan III,Unit,Demacia,7,Epic
+04DE016,Kadregrin the Ruined,Unit,Demacia,6,Rare
+04DE013,Towering Stonehorn,Unit,Demacia,6,Common
+04DE015,Swiftwing Flight,Unit,Demacia,4,Epic
+04DE007,Penitent Squire,Unit,Demacia,1,Common
+04DE009,Gallant Rider,Unit,Demacia,4,Rare
+05SH014,Xerath,Unit,Shurima,4,Champion
+05SH014T3,Xerath's Rite of the Arcane,Spell,Shurima,3,None
+05SH014T4,Xerath's Rite of the Arcane,Spell,Shurima,3,None
+05SH014T5,Xerath's Rite of the Arcane,Spell,Shurima,3,None
+05SH014T1,Xerath,Unit,Shurima,4,None
+05SH014T2,Xerath,Unit,Shurima,4,None
+05SH017,Herald of the Magus,Unit,Shurima,5,Rare
+05SH011,Endless Devout,Unit,Shurima,3,Rare
+05SH011T1,Restored Devout,Unit,Shurima,1,None
+05SH011T2,Sarcophagus,Landmark,Shurima,1,None
+05SH003,Obelisk of Power,Landmark,Shurima,1,Common
+05SH016,Ruinous Acolyte,Unit,Shurima,2,Common
+05SH018,Servitude of Desolation,Spell,Shurima,7,Epic
+05SH012,Risen Altar,Landmark,Shurima,6,Epic
+05SH012T1,Dami'yin the Unbound,Unit,Shurima,7,None
+05SH020,Construct of Desolation,Spell,Shurima,1,Common
+05SH015,Sandseer,Unit,Shurima,5,Epic
+05SH004,Unleashed Energy,Spell,Shurima,3,Common
+05SH004T2,Unleashed Energy,Spell,Shurima,3,None
+05SH004T1,Unleashed Energy,Spell,Shurima,3,None
+05SH002,Waste Walker,Unit,Shurima,3,Common
+05SH007,Rite of the Arcane,Spell,Shurima,3,Rare
+05SH007T1,Rite of the Arcane,Spell,Shurima,3,None
+05SH007T2,Rite of the Arcane,Spell,Shurima,3,None
+05BC010,Shark Trainer,Unit,Bandle City + Bilgewater,7,Rare
+05BC102,Wizened Wizard,Unit,Bandle City,3,Common
+05BC010T1,Short Tooth,Unit,Bandle City,1,None
+05BC099,Swole Scout,Unit,Bandle City,4,Rare
+05BC133,Tristana,Unit,Bandle City,3,Champion
+05BC202,Tristana's Buster Shot,Spell,Bandle City,4,None
+05BC133T1,Tristana,Unit,Bandle City,3,None
+05BC073,Inventive Chemist,Unit,Bandle City,1,Common
+05BC039,Gruff Grenadier,Unit,Bandle City,4,Rare
+05BC148,Furious Faefolk,Unit,Bandle City + Piltover & Zaun,7,Common
+05BC093,Veigar,Unit,Bandle City + Shadow Isles,4,Champion
+05BC093T1,Veigar's Event Horizon,Spell,Bandle City,5,None
+05BC093T2,Grand Overseer Veigar,Unit,Bandle City + Shadow Isles,4,None
+05BC007,Stone Stackers,Unit,Bandle City,2,Common
+05BC185,Shell Game,Spell,Bandle City,5,Rare
+05BC096,Tenor of Terror,Unit,Bandle City + Shadow Isles,4,Rare
+05BC096T1,Bass of Burden,Unit,Bandle City + Shadow Isles,4,None
+05BC042,Purpleberry Shake,Spell,Bandle City,1,Common
+05BC205,Event Horizon,Spell,Bandle City,5,Common
+05BC223,Entrapment,Spell,Bandle City,2,Rare
+05BC223T2,Entrapment,Spell,Bandle City,2,None
+05BC223T1,Entrapment,Spell,Bandle City,2,None
+05BC163,Ziggs,Unit,Bandle City + Shurima,3,Champion
+05BC163T3,Ziggs' Bouncing Bomb,Spell,Bandle City,3,None
+05BC163T4,Short Fuse,Ability,Bandle City + Shurima,0,None
+05BC163T6,Ziggs' Bouncing Bomb,Spell,Bandle City,3,None
+05BC163T7,Ziggs' Bouncing Bomb,Spell,Bandle City,3,None
+05BC163T1,Ziggs,Unit,Bandle City + Shurima,3,None
+05BC163T5,Short Fuse,Ability,Bandle City + Shurima,0,None
+05BC151,Mirror Mage,Unit,Bandle City,8,Epic
+05BC027,Hexplosive Minefield,Landmark,Bandle City,1,Common
+05BC021,Bouncing Bomb,Spell,Bandle City,3,Common
+05BC167,Bandle Commando,Unit,Bandle City,2,Common
+05BC179,Yordle Ranger,Unit,Bandle City + Demacia,6,Epic
+05BC214,Mega Inferno Bomb,Spell,Bandle City,7,Rare
+05BC041,Poppy,Unit,Bandle City + Demacia,4,Champion
+05BC105,Bandle Gunners,Unit,Bandle City,8,Rare
+05BC164,Poison Dart,Spell,Bandle City,1,Common
+05BC194,The Bandle Tree,Landmark,Bandle City,5,Epic
+05BC195,Prank,Spell,Bandle City,1,None
+05BC216,Yordle Contraption,Spell,Bandle City,5,Common
+05BC216T2,Yordle Contraption,Spell,Bandle City,5,None
+05BC216T1,Yordle Contraption,Spell,Bandle City,5,None
+05BC212,Safety Inspector,Unit,Bandle City,6,Rare
+05BC212T1,Inspection Passed!,Spell,Bandle City,0,None
+05BC209,Stress Defense,Spell,Bandle City,3,Common
+05BC013,Tricksy Tentacles,Spell,Bandle City,2,Common
+05BC100,Puffcap Pup,Unit,Bandle City,2,Common
+05BC098,Twisted Catalyzer,Unit,Bandle City,2,Common
+05BC122,Yordle Newbie,Unit,Bandle City,3,Common
+05BC018,Pompous Cavalier,Unit,Bandle City + Demacia,3,Rare
+05BC041T1,Poppy,Unit,Bandle City + Demacia,4,None
+05BC041T3,Poppy's Keeper's Verdict,Spell,Bandle City,6,None
+05BC132,Buster Shot,Spell,Bandle City,4,Common
+05BC198,Group Shot,Spell,Bandle City,1,Common
+05BC160,Proto Poro,Unit,Bandle City + Freljord,1,Common
+05BC005,Kelp Maidens,Unit,Bandle City,2,Rare
+05BC049,Conchologist,Unit,Bandle City,2,Rare
+05BC001,Minimorph,Spell,Bandle City,6,Rare
+05BC167T1,Hungry Owlcat,Unit,Bandle City + Ionia,1,None
+05BC026,Hidden Pathways,Spell,Bandle City,5,Common
+05BC152,Aloof Travelers,Unit,Bandle City + Piltover & Zaun,4,Common
+05BC070,Ava Achiever,Unit,Bandle City,6,Epic
+05BC145,Yordle Squire,Unit,Bandle City,1,Common
+05BC140,Poro Sled,Unit,Bandle City + Freljord,5,Epic
+05BC129,Arena Kingpin,Unit,Bandle City + Noxus,3,Common
+05BC004,Otterpus,Unit,Bandle City,1,Common
+05BC073T1,Scrappy Bomb,Landmark,Bandle City,1,None
+05BC192,Bomber Twins,Unit,Bandle City + Shurima,2,Common
+05BC166,Pokey Stick,Spell,Bandle City,2,Common
+05BC006,The Arsenal,Unit,Bandle City,8,Epic
+05BC040,Trinket Trade,Spell,Bandle City,1,Rare
+05BC208,Heroic Charge,Spell,Bandle City,5,Rare
+05BC135,Double Tap,Spell,Bandle City,6,Common
+05BC184,Babbling Balladeers,Unit,Bandle City,3,Common
+05BC116,Bandle City Mayor,Unit,Bandle City,3,Epic
+05BC111,Yordles in Arms ,Spell,Bandle City,5,Rare
+05BC145T2,Tiny Shield,Spell,Bandle City,1,None
+05BC145T1,Tiny Spear,Spell,Bandle City,1,None
+05BC191,Keeper's Verdict,Spell,Bandle City,6,Rare
+05BC052,Treasured Trash,Spell,Bandle City,10,Rare
+05BC050,Benemone,Unit,Bandle City,4,Common
+05BC021T1,Bouncing Bomb,Spell,Bandle City,3,None
+05BC021T2,Bouncing Bomb,Spell,Bandle City,3,None
+05BC094,Darkbulb Acolyte,Unit,Bandle City,2,Common
+05BC001T1,Mini-Minitee,Unit,Bandle City,3,None
+05BC146,Bandle Painter,Unit,Bandle City,3,Common
+05BC235,Yordle Smith,Unit,Bandle City,2,Common
+05BC175,Loping Telescope,Unit,Bandle City + Targon,2,Rare
+05BC069,Lecturing Yordle,Unit,Bandle City,4,Rare
+05BC057,Stilted Robemaker,Unit,Bandle City,4,Rare
+05BC188,Curious Shellfolk,Unit,Bandle City,6,Epic
+05NX009,Lost Soul,Unit,Noxus,8,Epic
+05NX006,Reborn Grenadier,Unit,Noxus,1,Common
+05NX017,Risen Reckoner,Unit,Noxus,3,None
+05NX005,Ancient Warmonger,Unit,Noxus,5,Rare
+05NX001,Sion,Unit,Noxus,7,Champion
+05NX003,Salt And Stitches,Spell,Noxus,2,Rare
+05NX015,Fallen Reckoner,Unit,Noxus,5,Rare
+05NX013,Fallen Rider,Unit,Noxus,2,Common
+05NX018,Risen Rider,Unit,Noxus,2,None
+05NX001T1,Sion Returned,Unit,Noxus,7,None
+05NX001T3,Sion,Unit,Noxus,7,None
+05NX001T2,Sion's Roar of the Slayer,Spell,Noxus,3,None
+05NX012,Roar of the Slayer,Spell,Noxus,3,Common
+05NX014,Weapons of the Lost,Spell,Noxus,8,Common
+05NX007,Twinblade Revenant,Unit,Noxus,4,None
+05NX004,Grave Physician,Unit,Noxus,2,Common
+05NX016,The Lady of Blood,Unit,Noxus,4,Epic
+05NX002,Noble Rebel,Unit,Noxus,3,Common
+05BW005,Nami,Unit,Bilgewater,3,Champion
+05BW005T2,Nami's Ebb,Spell,Bilgewater,2,None
+05BW005T1,Nami,Unit,Bilgewater,3,None
+05BW006,Ebb,Spell,Bilgewater,2,Common
+05BW006T2,Flow,Spell,Bilgewater,2,None
+05BW006T1,Ebb and Flow,Spell,Bilgewater,2,None
+05BW002,Journeying Sandhopper,Unit,Bilgewater,3,Common
+05BW008,Abyssal Guard,Unit,Bilgewater,4,Common
+05BW011,Fleet Admiral Shelly,Unit,Bilgewater,5,Epic
+05BW003,Tidal Wave,Spell,Bilgewater,3,Rare
+05BW003T1,Crashing Wave,Spell,Bilgewater,3,None
+05BW003T2,Colossal Wave,Spell,Bilgewater,3,None
+05BW004,Avatar of the Tides,Unit,Bilgewater,6,Epic
+05BW001,Marai Warden,Unit,Bilgewater,2,Rare
+05BW010,Marai Greatmother,Unit,Bilgewater,4,Common
+05BW013,Marai Songstress,Unit,Bilgewater,2,Rare
+05PZ015,Justice Rider,Unit,Piltover & Zaun,4,Epic
+05PZ012,Station Archivist,Unit,Piltover & Zaun,3,Rare
+05PZ019,Most Wanted,Spell,Piltover & Zaun,5,Epic
+05PZ017,Sump Fumes,Spell,Piltover & Zaun,3,Common
+05PZ013,Piltover Peacemaker,Spell,Piltover & Zaun,3,Common
+05PZ020,Ambush,Spell,Piltover & Zaun,2,Common
+05PZ010,Advanced Intel,Spell,Piltover & Zaun,1,Common
+05PZ014,"Corina, Mastermind",Unit,Piltover & Zaun,6,Epic
+05PZ014T1,Beguiling Blossom,Ability,Piltover & Zaun,0,None
+05PZ014T2,Volatile Bloom,Ability,Piltover & Zaun,0,None
+05PZ002,Insider Knowledge,Spell,Piltover & Zaun,3,Common
+05PZ008,Flashbomb Trap,Trap,Piltover & Zaun,0,None
+05PZ006,Caitlyn,Unit,Piltover & Zaun,3,Champion
+05PZ004,Officer Squad,Unit,Piltover & Zaun,5,Rare
+05PZ009,Sting Officer,Unit,Piltover & Zaun,2,Common
+05PZ016,Coup de Grace,Spell,Piltover & Zaun,5,Rare
+05PZ035,Stinky Whump,Unit,Piltover & Zaun,1,Rare
+05PZ006T2,Caitlyn,Unit,Piltover & Zaun,3,None
+05PZ006T1,Caitlyn's Piltover Peacemaker,Spell,Piltover & Zaun,3,None
+05SI014,Catalogue of Regrets,Landmark,Shadow Isles,4,Epic
+05SI013,Mistkeepers,Unit,Shadow Isles,5,Rare
+05SI009,Senna,Unit,Shadow Isles,5,Champion
+05SI016,Dawning Shadow,Spell,Shadow Isles,7,Common
+05SI004,Watcher on the Isles,Unit,Shadow Isles,4,Rare
+05SI012,Solari Sentinel,Unit,Shadow Isles,3,Common
+05SI008,Ixtali Sentinel,Unit,Shadow Isles,6,Rare
+05SI003,Piercing Darkness,Spell,Shadow Isles,6,Common
+05SI029,Darkness,Spell,Shadow Isles,3,None
+05SI010,Dess & Ada,Unit,Shadow Isles,8,Epic
+05SI009T1,Senna,Unit,Shadow Isles,5,None
+05SI009T2,Senna's Dawning Shadow,Spell,Shadow Isles,7,None
+05SI011,Burgeoning Sentinel,Unit,Shadow Isles,1,Common
+05SI015,Buhru Sentinel,Unit,Shadow Isles,3,Common
+05IO025,Tail-Cloak Matriarch,Unit,Ionia,5,Rare
+05MT009,Battle Bonds,Spell,Targon,4,Common
