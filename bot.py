@@ -129,16 +129,16 @@ def GetEmojiCode(thing):
 		'Zed': '<:Zed:890853710761181215>',
 		'Ziggs': '<:Ziggs:890853708722749450>',
 		'Zilean': '<:Zilean:890853709054087198>',
-		'faction_BandleCity_Name': '<:bandle:891534305879289939>',
-		'faction_Bilgewater_Name': '<:bilge:891534306244194365>',
-		'faction_Demacia_Name': '<:demacia:891534305950576661>',
-		'faction_Freljord_Name': '<:frejlord:891534306516820008>',
-		'faction_Ionia_Name': '<:ionia:891534306382589983>',
-		'faction_Noxus_Name': '<:noxus:891534306126737449>',
-		'faction_Piltover_Name': '<:pnz:891534306223210577>',
-		'faction_Shurima_Name': '<:shurima:891534306248364032>',
-		'faction_ShadowIsles_Name': '<:si:891534306130935838>',
-		'faction_MtTargon_Name': '<:targon:891534306290319390>',
+		'faction_BandleCity_Name': '<:bandle:893763725939585034>',
+		'faction_Bilgewater_Name': '<:bilge:893763725696323604>',
+		'faction_Demacia_Name': '<:demacia:893763725381730367>',
+		'faction_Freljord_Name': '<:frejlord:893763725478199298>',
+		'faction_Ionia_Name': '<:ionia:893763725671153685>',
+		'faction_Noxus_Name': '<:noxus:893763725448863766>',
+		'faction_Piltover_Name': '<:pnz:893763725578891297>',
+		'faction_Shurima_Name': '<:shurima:893763725515956294>',
+		'faction_ShadowIsles_Name': '<:si:893763725545332747>',
+		'faction_MtTargon_Name': '<:targon:893763725507571722>',
 		'red': '<:red:891549966789640242>',
 		'green': '<:green:891549966798032956>',
 		'gray':	'<:gray:891552127573434398>'
@@ -169,17 +169,30 @@ def GetMatchIDS(region, puuID, APIKey):
 @bot.event
 async def on_command_error(ctx, error):
 	if isinstance(error, commands.CommandOnCooldown):#Does this when someone requests while on cooldown.
-		await ctx.send('There have been too many requests recently.\nPlease try again in {:.0f}s.'.format(error.retry_after))
+		print('COOLDOWN REACHED RATELIMIT DANGER!!')
+		await ctx.send('There have been too many requests recently. This bot can currently only receive 200 requests each hour. Please try again later.')
 		
 	
 
 @bot.command(name = 'history')
-@commands.cooldown(20, 60, commands.BucketType.default)#Limiting to 20 requests each 60 seconds
+@commands.cooldown(200, 3600, commands.BucketType.default)#Limiting to 200 requests each hour
 async def MatchHistory(ctx, name, tag, region):
+	print('Getting request from: ' + str(ctx.author) + ' in the server: ' + ctx.guild.name )
 	#Send loading message
-	embed=discord.Embed(title="Retreiving your match history. Please wait...", description="")
+	embed=discord.Embed(title="Retreiving your match history. Please wait a while...", description="")
 	ldngmsg = await ctx.send(embed=embed)
 	
+	#Fix wrong names of region
+	amnames = ['am','AM','Am','Na','Br','NA','na','br','latam','america','us','Us','US','USA','BR','LATAM','Americas','America','oce','Oce','OCE','nz','NZ']
+	asianames = ['jp','JP','kr','KR','Jp','Kr','asea','Asia']
+	eunames = ['Eu','eu','EU','Europe','Europes','europes','rus','Rus','Eng','eng','ger','Ger','fr','Fr','FR']
+	if region in amnames:
+		region = 'americas'
+	if region in asianames:
+		region = 'asia'
+	if region in eunames:
+		region = 'europe'
+		
 	selfpuuid = GetPuuID(region, name, tag, zAPIKey)
 	if selfpuuid == '404error':#handle errors from bad input
 		await ldngmsg.delete()
@@ -189,7 +202,7 @@ async def MatchHistory(ctx, name, tag, region):
 		await ctx.send('There was an error retrieving the information. Please try again another time.')
 	elif selfpuuid == 'regionerror':
 		await ldngmsg.delete()
-		await ctx.send('The region you entered was wrong. Please enter: asia/americas/europe')
+		await ctx.send('The region you entered was wrong. Please enter: asia/americas/europe \n If your name has spaces, please use double quotation marks Eg. "Cool Person"')
 	else:
 		matchlist = GetMatchIDS(region, selfpuuid, zAPIKey)
 		embed=discord.Embed(title = 'Match history for ' + name)
@@ -199,7 +212,7 @@ async def MatchHistory(ctx, name, tag, region):
 			if n >= 10: #this limits matches shown to 10
 				break
 			else:	
-				print('apirequest' + id)
+				print('matchapirequest: ' + id)
 				URL = "https://" + region + ".api.riotgames.com/lor/match/v1/matches/" + id + "?api_key=" + zAPIKey
 				response = requests.get(URL).json()
 				if 'status' in response: #this checks for errors in API request
